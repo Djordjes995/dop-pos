@@ -4,10 +4,8 @@ import { useNavigate } from 'react-router-dom';
 import { useFormik } from 'formik';
 import * as Yup from 'yup';
 import {
-  Alert,
   Box,
   Button,
-  FormHelperText,
   Stack,
   TextField,
   Typography
@@ -45,13 +43,6 @@ const Page = () => {
       }
     }
   });
-
-  const handleMethodChange = useCallback(
-    (event, value) => {
-      setMethod(value);
-    },
-    []
-  );
 
   const handleSkip = useCallback(
     () => {
@@ -130,9 +121,6 @@ const Page = () => {
                   value={formik.values.password}
                 />
               </Stack>
-              <FormHelperText sx={{ mt: 1 }}>
-                Optionally you can skip.
-              </FormHelperText>
               {formik.errors.submit && (
                 <Typography
                   color="error"
@@ -159,15 +147,6 @@ const Page = () => {
               >
                 Skip authentication
               </Button>
-              <Alert
-                color="info"
-                severity="info"
-                sx={{ mt: 3 }}
-              >
-                <div>
-                  You can use <b>demo@devias.io</b> and password <b>Password123!</b>
-                </div>
-              </Alert>
             </form>
           </div>
         </Box>

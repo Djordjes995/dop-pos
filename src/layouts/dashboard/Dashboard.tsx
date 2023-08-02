@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { styled } from '@mui/material/styles';
 import { SideNav } from './SideNav';
-import AppRouter from '../../router';
 
 
 const SIDE_NAV_WIDTH = 280;
@@ -34,9 +33,7 @@ export const Dashboard = ((props: any) => {
       />
       <LayoutRoot>
         <LayoutContainer>
-          <AppRouter>
-            {children}
-          </AppRouter>
+          {children}
         </LayoutContainer>
       </LayoutRoot>
     </>
