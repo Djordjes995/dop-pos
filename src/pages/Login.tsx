@@ -14,7 +14,6 @@ import { Layout as AuthLayout } from '../layouts/auth/Layout';
 
 const Page = () => {
   const navigate = useNavigate();
-  const [method, setMethod] = useState('email');
   const formik = useFormik({
     initialValues: {
       email: 'demo@devias.io',

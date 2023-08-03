@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { styled } from '@mui/material/styles';
 import { SideNav } from './SideNav';
 
-
 const SIDE_NAV_WIDTH = 280;
 
 const LayoutRoot = styled('div')(({ theme }) => ({
@@ -32,7 +31,7 @@ export const Dashboard = ((props: any) => {
         open={openNav}
       />
       <LayoutRoot>
-        <LayoutContainer>
+        <LayoutContainer sx={{ fontFamily: (theme) => theme.typography.fontFamily }}>
           {children}
         </LayoutContainer>
       </LayoutRoot>
