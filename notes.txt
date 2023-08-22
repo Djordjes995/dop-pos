@@ -1,0 +1,4 @@
+- Lokalizacija sa https://github.com/i18next/react-i18next, pogledaj primer za react
+- Katalog (samo front)
+- Zeljene zalihe (samo front)
+- Predlog da u podesavanjima moze da se metoda porucivanja (rough stock, precise stock ili autosuggested)

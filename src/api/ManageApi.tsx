@@ -1,54 +1,62 @@
-import { baseRequest } from "./Api";
+import axios from 'axios'
 
-export default {
-  login(payload) {
-    return baseRequest
-      .post("api/login_check", payload)
-      .then((response) => response.data);
-  },
-  getRegularOrderCheck() {
-    return baseRequest
-      .get("pos/order/check")
-      .then((response) => response.data);
-  },
-  regularOrderAction(action = 'create') {
-    return baseRequest
-      .get("pos/order/"+action)
-      .then((response) => response.data);
-  },
-  fetchCatalogueData() {
-    return baseRequest
-    .get('pos/catalogue')
+const baseRequest = 'http://5.75.227.33:8080/'
+
+export function login(payload) {
+  return axios
+    .post("api/login_check", payload)
+    .then((response) => response.data);
+}
+export function getRegularOrderCheck() {
+  return axios
+    .get(baseRequest + 'pos/order/check')
+    .then((response) => response.data);
+}
+
+export function regularOrderAction(action = 'create') {
+  return axios
+    .get("pos/order/" + action)
+    .then((response) => response.data);
+}
+
+export function fetchCatalogueData() {
+  return axios
+    .get(baseRequest + 'pos/catalogue')
     .then((response) => response.data)
-  },
-  getWantedStocks() {
-    return baseRequest
+}
+
+export function getWantedStocks() {
+  return axios
     .get('pos/stock/wanted')
     .then((response) => response.data)
-  },
-  setWantedStocks(payload) {
-    return baseRequest
+}
+
+export function setWantedStocks(payload) {
+  return axios
     .post('pos/stock/wanted', payload)
     .then((response) => response.data)
-  },
-  getPreciseStocks() {
-    return baseRequest
+}
+
+export function getPreciseStocks() {
+  return axios
     .get('pos/stock/precisely')
     .then((response) => response.data)
-  },
-  setPreciseStocks(payload /*[{id, quantity]}*/) {
-    return baseRequest
+}
+
+export function setPreciseStocks(payload /*[{id, quantity]}*/) {
+  return axios
     .post('pos/stock/precisely', payload)
     .then((response) => response.data)
-  },
-  getRoughStocks() {
-    return baseRequest
+}
+
+export function getRoughStocks() {
+  return axios
     .get('pos/stock/roughly')
     .then((response) => response.data)
-  },
-  setRoughStocks(payload /*[{id, quantity]}*/) {
-    return baseRequest
+}
+
+export function setRoughStocks(payload /*[{id, quantity]}*/) {
+  return axios
     .post('pos/stock/roughly', payload)
     .then((response) => response.data)
-  },
-};
+}

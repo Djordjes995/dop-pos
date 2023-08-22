@@ -11,10 +11,34 @@ import {
 } from '@mui/material';
 import { Scrollbar } from '../../components/Scrollbar';
 import { SideNavItem } from './SideNavItem';
+import { useLocation } from 'react-router-dom'
 
 export const SideNav = (props: any) => {
   const { open, onClose } = props;
   const lgUp = useMediaQuery((theme: any) => theme.breakpoints.up('lg'));
+  const location = useLocation();
+  const items = [
+    {
+      name: 'Home',
+      path: '/'
+    },
+    {
+      name: 'Login',
+      path: '/login'
+    },
+    {
+      name: 'Regular Order',
+      path: '/regular-order'
+    },
+    {
+      name: 'Catalogue',
+      path: '/catalogue'
+    },
+    {
+      name: 'Analytics',
+      path: '/analytics'
+    },
+  ]
 
   const content = (
     <Scrollbar
@@ -87,39 +111,21 @@ export const SideNav = (props: any) => {
               m: 0
             }}
           >
-            {/* {items.map((item) => {
-              const active = item.path ? (pathname === item.path) : false;
+            {items.map((item) => {
+              const active = item.path ? (location.pathname === item.path) : false;
 
               return (
                 <SideNavItem
                   active={active}
-                  disabled={item.disabled}
-                  external={item.external}
-                  icon={item.icon}
-                  key={item.title}
+                  disabled={false}
+                  external={false}
+                  icon={''}
+                  key={item.name}
                   path={item.path}
-                  title={item.title}
+                  title={item.name}
                 />
               );
-            })} */}
-            <SideNavItem
-              active={false}
-              disabled={false}
-              external={false}
-              icon={''}
-              key={1}
-              path={'/'}
-              title={'home'}
-            />
-            <SideNavItem
-              active={false}
-              disabled={false}
-              external={false}
-              icon={''}
-              key={2}
-              path={'/login'}
-              title={'login'}
-            />
+            })}
           </Stack>
         </Box>
       </Box>
