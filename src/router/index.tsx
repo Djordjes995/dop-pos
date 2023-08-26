@@ -6,6 +6,7 @@ import Home from '../pages/Home';
 import Login from '../pages/Login';
 import Catalogue from '../pages/Catalogue';
 import Test from '../pages/Test';
+import RegularOrder from '../pages/RegularOrder';
 import { Dashboard as DashboardLayout } from '../layouts/dashboard/Dashboard';
 import { Layout as AuthLayout } from '../layouts/auth/Layout';
 
@@ -18,6 +19,13 @@ const AppRouter: React.FC = () => {
         <Route path="/" element={
           <DashboardLayout>
             <Home />
+          </DashboardLayout>
+        }>
+        </Route>
+
+        <Route path="/regular-order" element={
+          <DashboardLayout>
+            <RegularOrder />
           </DashboardLayout>
         }>
         </Route>

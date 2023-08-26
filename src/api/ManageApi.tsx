@@ -15,7 +15,7 @@ export function getRegularOrderCheck() {
 
 export function regularOrderAction(action = 'create') {
   return axios
-    .get("pos/order/" + action)
+    .get(baseRequest + 'pos/order/' + action)
     .then((response) => response.data);
 }
 
