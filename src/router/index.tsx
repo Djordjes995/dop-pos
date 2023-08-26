@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom';
 import Home from '../pages/Home';
 import Login from '../pages/Login';
 import Catalogue from '../pages/Catalogue';
+import Test from '../pages/Test';
 import { Dashboard as DashboardLayout } from '../layouts/dashboard/Dashboard';
 import { Layout as AuthLayout } from '../layouts/auth/Layout';
 
@@ -24,6 +25,12 @@ const AppRouter: React.FC = () => {
         <Route path="/catalogue" element={
           <DashboardLayout>
             <Catalogue />
+          </DashboardLayout>
+        } />
+
+        <Route path="/test" element={
+          <DashboardLayout>
+            <Test />
           </DashboardLayout>
         } />
 

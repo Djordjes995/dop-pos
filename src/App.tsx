@@ -6,15 +6,19 @@ import {
   QueryClient,
   QueryClientProvider,
 } from '@tanstack/react-query'
+import { registerLicense } from "@syncfusion/ej2-base";
+import { syncfusion_license } from '../license'
 
 function App() {
+
+  registerLicense(syncfusion_license);
 
   const theme = createTheme();
   const queryClient = new QueryClient(
     {
       defaultOptions: {
         queries: {
-          retry : false,
+          retry: false,
         },
       },
     }

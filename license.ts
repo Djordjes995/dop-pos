@@ -1,0 +1,1 @@
+export const syncfusion_license = "ORg4AjUWIQA/Gnt2V1hhQlJAfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hSn5UdkdjXn9fdHFTRmFV";
