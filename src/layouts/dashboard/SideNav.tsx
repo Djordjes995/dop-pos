@@ -23,8 +23,8 @@ export const SideNav = (props: any) => {
       path: '/'
     },
     {
-      name: 'Login',
-      path: '/login'
+      name: 'Wanted Stocks',
+      path: '/wanted-stocks'
     },
     {
       name: 'Regular Order',
@@ -37,6 +37,10 @@ export const SideNav = (props: any) => {
     {
       name: 'Analytics',
       path: '/analytics'
+    },
+    {
+      name: 'Login',
+      path: '/login'
     },
   ]
 

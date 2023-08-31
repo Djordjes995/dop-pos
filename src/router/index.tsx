@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom';
 import Home from '../pages/Home';
 import Login from '../pages/Login';
 import Catalogue from '../pages/Catalogue';
+import WantedStocks from '../pages/WantedStocks';
 import Test from '../pages/Test';
 import RegularOrder from '../pages/RegularOrder';
 import { Dashboard as DashboardLayout } from '../layouts/dashboard/Dashboard';
@@ -33,6 +34,12 @@ const AppRouter: React.FC = () => {
         <Route path="/catalogue" element={
           <DashboardLayout>
             <Catalogue />
+          </DashboardLayout>
+        } />
+
+        <Route path="/wanted-stocks" element={
+          <DashboardLayout>
+            <WantedStocks />
           </DashboardLayout>
         } />
 

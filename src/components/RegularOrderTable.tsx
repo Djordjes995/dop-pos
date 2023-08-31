@@ -4,13 +4,20 @@ import {
   GridComponent,
 } from "@syncfusion/ej2-react-grids";
 import { by_sku } from '../assets/mock';
-import { useTranslation, Trans } from 'react-i18next';
+import { TextField, Box } from '@mui/material';
+import { useTranslation } from 'react-i18next';
 
 const RegularOrderTable = () => {
 
   const { t } = useTranslation();
 
   const data = by_sku;
+
+  const customTemplate = (props) => {
+    return <Box sx={{ height: 24 }}>
+      <TextField variant="standard" type="number" size="small" />
+    </Box>
+  };
 
   return (
     <GridComponent dataSource={data}>
@@ -24,11 +31,12 @@ const RegularOrderTable = () => {
         <ColumnDirective field="price" headerText={t('regularOrder.price')} />
         <ColumnDirective field="suggested_quantity" headerText={t('regularOrder.suggestedQuantity')} />
         <ColumnDirective field="history" headerText={t('regularOrder.history')} />
-        <ColumnDirective field="quantity" headerText={t('regularOrder.quantity')} />
+        <ColumnDirective field="quantity" headerText={t('regularOrder.quantity')} template={customTemplate} />
         <ColumnDirective field="total" headerText={t('regularOrder.total')} />
       </ColumnsDirective>
     </GridComponent>
   );
+
 };
 
 export default RegularOrderTable;

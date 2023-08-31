@@ -27,7 +27,7 @@ export function fetchCatalogueData() {
 
 export function getWantedStocks() {
   return axios
-    .get('pos/stock/wanted')
+    .get(baseRequest + 'pos/stock/wanted')
     .then((response) => response.data)
 }
 
