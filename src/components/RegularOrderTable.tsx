@@ -27,7 +27,7 @@ const RegularOrderTable = () => {
   let grid: any;
 
   const quantityTemplate = ({ quantity } = props) => {
-    return <Box sx={{ height: 24 }}>
+    return <Box sx={{ height: 24, width: 40 }}>
       <TextField defaultValue={quantity} variant="standard" type="number" size="small" />
     </Box>
   };
@@ -40,7 +40,7 @@ const RegularOrderTable = () => {
 
   const dataBound = () => {
     if (grid) {
-      grid.autoFitColumns(['sku_name', 'sku_brand_name', 'sku_parent_name', 'price']);
+      grid.autoFitColumns(['sku_name', 'sku_brand_name', 'sku_parent_name', 'price', 'quantity']);
     }
   };
 
