@@ -13,9 +13,9 @@ export function getRegularOrderCheck() {
     .then((response) => response.data);
 }
 
-export function regularOrderAction(action = 'create') {
+export function regularOrderAction() { // action param -> update | create
   return axios
-    .get(baseRequest + 'pos/order/' + action)
+    .get(baseRequest + 'pos/order/update?access=true')
     .then((response) => response.data);
 }
 
