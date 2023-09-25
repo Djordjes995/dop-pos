@@ -2,6 +2,8 @@ import {
   ColumnDirective,
   ColumnsDirective,
   GridComponent,
+  Inject,
+  Resize
 } from "@syncfusion/ej2-react-grids";
 import { by_sku } from '../assets/mock';
 import { TextField, Box } from '@mui/material';
@@ -12,6 +14,7 @@ const RegularOrderTable = () => {
   const { t } = useTranslation();
 
   const data = by_sku;
+  let grid: any;
 
   const customTemplate = (props) => {
     return <Box sx={{ height: 24 }}>
@@ -19,8 +22,15 @@ const RegularOrderTable = () => {
     </Box>
   };
 
+  const dataBound = () => {
+    if (grid) {
+      grid.autoFitColumns(['sku_name', 'sku_brand_name']);
+    }
+  };
+
   return (
-    <GridComponent dataSource={data}>
+    <GridComponent dataSource={data} dataBound={dataBound} ref={g => grid = g}>
+      <Inject services={[Resize]} />
       <ColumnsDirective>
         <ColumnDirective field="sku_name" headerText={t('regularOrder.name')} />
         <ColumnDirective field="sku_parent_name" headerText={t('regularOrder.parent')} />
