@@ -15,7 +15,7 @@ export function getRegularOrderCheck() {
 
 export function regularOrderAction() { // action param -> update | create
   return axios
-    .get(baseRequest + 'pos/order/update?access=true')
+    .get(baseRequest + 'pos/order/update?access=true') // TODO: REMOVE ACCESS
     .then((response) => response.data);
 }
 

@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { styled } from '@mui/material/styles';
 import { SideNav } from './SideNav';
+import { Header } from './Header'
 import Container from '@mui/material/Container';
 
 const SIDE_NAV_WIDTH = 280;
@@ -25,7 +26,7 @@ const LayoutContainer = styled('div')({
 export const Dashboard = ((props: any) => {
   const { children } = props;
   const [openNav, setOpenNav] = useState(false);
-  
+
   return (
     <>
       <SideNav
@@ -34,6 +35,7 @@ export const Dashboard = ((props: any) => {
       />
       <LayoutRoot>
         <LayoutContainer sx={{ fontFamily: (theme) => theme.typography.fontFamily, backgroundColor: (theme) => theme.palette.grey[50] }}>
+        <Header />
           <Container maxWidth="xl" sx={{ marginTop: 4 }}>
             {children}
           </Container>
