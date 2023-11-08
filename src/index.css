@@ -13,3 +13,21 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.e-icons.e-expand::before {
+  content: '\e859';
+  position: relative;
+  z-index: 1;
+  margin-left: -15px;
+}
+
+.e-icons.e-collapse::before {
+  content: '\e83d';
+  position: relative;
+  z-index: 1;
+  margin-left: -15px;
+}
+
+.e-rowcell.e-rowsheader {
+  position: relative;
+}

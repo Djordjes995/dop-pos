@@ -495,3 +495,5 @@ export const by_sku = [
       total_suggested_perc_reached: 0.8,
     },
   ];
+
+  
