@@ -2,7 +2,8 @@ import {
   CalculatedField,
   FieldList,
   Inject,
-  PivotViewComponent
+  PivotViewComponent,
+  ConditionalFormatting
 } from "@syncfusion/ej2-react-pivotview";
 import { by_pos_and_sku } from '../assets/mock';
 
@@ -14,7 +15,10 @@ const ByPosAndSkuTable = () => {
   let pivotObj: any;
 
   const logInfo = (data) => {
-    console.log(data)
+  }
+
+  const posName = (name: String): String[] => {
+    return name.split('|')
   }
 
   return (
@@ -23,7 +27,6 @@ const ByPosAndSkuTable = () => {
         ref={d => pivotObj = d}
         gridSettings={gridSettings}
         cellTemplate={(args: any) => {
-          console.log(args);
           if (args.targetCell.ariaColIndex === "1" && args.cellInfo.level === 0)
             return (
               <div onClick={() => logInfo(args)} style={{
@@ -35,26 +38,11 @@ const ByPosAndSkuTable = () => {
                 right: 21,
                 bottom: 0,
               }}>
-                <div
-                  style={{ width: "120px", marginRight: '5px', height: "16px", background: "", lineHeight: 1 }}
-                >
-                  aman
-                </div>
-                <div
-                  style={{ width: "120px",marginRight: '5px', height: "16px", background: "", lineHeight: 1 }}
-                >
-                  400
-                </div>
-                <div
-                  style={{ width: "120px",marginRight: '5px', height: "16px", background: "", lineHeight: 1 }}
-                >
-                  neki
-                </div>
-                <div
-                  style={{ width: "120px", marginRight: '5px',height: "16px", background: "", lineHeight: 1 }}
-                >
-                  kurac
-                </div>
+                {posName(args.cellInfo.actualText).map((item, index) => {
+                  return <div key={index} style={{ width: "120px", marginRight: '5px', height: "16px", background: "", lineHeight: 1 }}>
+                    {item}
+                  </div>
+                })}
               </div>
             );
           else return;
@@ -63,13 +51,63 @@ const ByPosAndSkuTable = () => {
         width={"100%"}
         showFieldList={true}
         allowCalculatedField={true}
+        allowConditionalFormatting={true}
         dataSourceSettings={{
           dataSource: data,
           expandAll: false,
           filters: [],
+          formatSettings: [{ name: 'diff_percentage', format: 'p2' }],
           rows: [
-            { name: "pos_name", caption: "POS Name" },
-            { name: "sku_name", caption: "SKU Name" },
+            { name: "customer_sort_by_pos_color_desc", caption: "POS Name", dataType: 'number' },
+            { name: "item_field", caption: "SKU Name" },
+          ],
+          conditionalFormatSettings: [
+            {
+              measure: 'diff_percentage',
+              value1: -0.05,
+              value2: -0.3,
+              conditions: 'Between',
+              style: {
+                backgroundColor: 'yellow',
+                color: 'white',
+                fontFamily: 'Tahoma',
+                fontSize: '12px'
+              }
+            },
+            {
+              measure: 'diff_percentage',
+              value1: -0.3,
+              conditions: 'LessThan',
+              style: {
+                backgroundColor: 'red',
+                color: 'white',
+                fontFamily: 'Tahoma',
+                fontSize: '12px'
+              }
+            },
+            {
+              measure: 'diff_percentage',
+              value1: 0.05,
+              conditions: 'GreaterThan',
+              style: {
+                backgroundColor: 'green',
+                color: 'white',
+                fontFamily: 'Tahoma',
+                fontSize: '12px'
+              }
+            },
+            {
+              measure: 'diff_percentage',
+              value1: -0.049,
+              value2: 0.049,
+              conditions: 'Between',
+              style: {
+                backgroundColor: 'blue',
+                color: 'white',
+                fontFamily: 'Tahoma',
+                fontSize: '12px'
+              }
+            },
           ],
           values: [
             {
@@ -81,17 +119,29 @@ const ByPosAndSkuTable = () => {
               caption: "Order Amount",
             },
             {
-              name: "diff",
-              caption: "Diff",
+              name: 'diff',
+              caption: 'Diff',
+              type: 'CalculatedField'
             },
             {
-              name: "diff_perc",
-              caption: "Diff Percentage",
+              name: 'diff_percentage',
+              caption: 'Diff Percentage',
+              type: 'CalculatedField'
             },
           ],
+          calculatedFieldSettings: [
+            {
+              name: 'diff',
+              formula: '"Sum(order_amount)"-"Sum(suggested_amount)"'
+            },
+            {
+              name: 'diff_percentage',
+              formula: '"Sum(order_amount)"/"Sum(suggested_amount)"-1'
+            }
+          ]
         }}
       >
-        <Inject services={[FieldList, CalculatedField]}></Inject>
+        <Inject services={[FieldList, CalculatedField, ConditionalFormatting]}></Inject>
       </PivotViewComponent>
     </div>
   );

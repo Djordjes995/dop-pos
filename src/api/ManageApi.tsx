@@ -1,7 +1,7 @@
 import axios from 'axios'
 
-const baseRequest = 'http://5.75.227.33:8080/'
-
+const baseRequest = 'http://5.75.227.33:8081/'
+// 5.75.227.33:8081/backoffice/daily-by-pos-and-item/1?auth=f%40ls3e
 export function login(payload) {
   return axios
     .post("api/login_check", payload)
@@ -10,6 +10,12 @@ export function login(payload) {
 export function getRegularOrderCheck() {
   return axios
     .get(baseRequest + 'pos/order/check')
+    .then((response) => response.data);
+}
+
+export function getPivotTable() {
+  return axios
+    .get(baseRequest + 'backoffice/daily-by-pos-and-item/1?auth=f%40ls3e')
     .then((response) => response.data);
 }
 
@@ -60,3 +66,5 @@ export function setRoughStocks(payload /*[{id, quantity]}*/) {
     .post('pos/stock/roughly', payload)
     .then((response) => response.data)
 }
+
+
