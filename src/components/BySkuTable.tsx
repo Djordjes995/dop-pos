@@ -17,7 +17,7 @@ const ByPosAndSkuTable = () => {
   const logInfo = (data) => {
   }
 
-  const posName = (name: String): String[] => {
+  const splitPosName = (name: String): String[] => {
     return name.split('|')
   }
 
@@ -27,7 +27,7 @@ const ByPosAndSkuTable = () => {
         ref={d => pivotObj = d}
         gridSettings={gridSettings}
         cellTemplate={(args: any) => {
-          if (args.targetCell.ariaColIndex === "1" && args.cellInfo.level === 0)
+          if (args.targetCell.ariaColIndex === "1" && args.cellInfo.level < 2)
             return (
               <div onClick={() => logInfo(args)} style={{
                 display: "flex",
@@ -38,8 +38,21 @@ const ByPosAndSkuTable = () => {
                 right: 21,
                 bottom: 0,
               }}>
-                {posName(args.cellInfo.actualText).map((item, index) => {
-                  return <div key={index} style={{ width: "120px", marginRight: '5px', height: "16px", background: "", lineHeight: 1 }}>
+                {splitPosName(args.cellInfo.actualText).map((item, index) => {
+                  return <div
+                    key={index}
+                    title={`${item}`}
+                    style={{
+                      width: "120px",
+                      marginRight: '5px',
+                      height: "16px",
+                      background: '#fff',
+                      overflow: 'hidden',
+                      whiteSpace: 'nowrap',
+                      textOverflow: 'ellipsis',
+                      lineHeight: 1,
+                      display: index === 0 ? 'none' : 'block'
+                    }}>
                     {item}
                   </div>
                 })}
