@@ -6,15 +6,36 @@ import {
   ConditionalFormatting
 } from "@syncfusion/ej2-react-pivotview";
 import { by_pos_and_sku } from '../assets/mock';
+import { useState } from 'react';
+import { IconButton, SvgIcon } from "@mui/material";
+import Bars3Icon from '@heroicons/react/24/solid/Bars3Icon';
 
 const ByPosAndSkuTable = () => {
   const data = by_pos_and_sku;
+  const [tableRows, setTableRows] = useState([
+    { name: "customer_sort_by_pos_color_desc", caption: "POS Name", dataType: 'number' },
+    { name: "item_field", caption: "SKU Name" },
+  ])
 
   let gridSettings = {
   };
   let pivotObj: any;
 
-  const logInfo = (data) => {
+  const setSorting = () => {
+    setTableRows((prevDataArray) => {
+      return prevDataArray.map((obj, index) => {
+        if (index === 0) {
+          // Create a new object with the updated property
+          return { ...obj, name: 'customer_sort_by_customer_id_asc' };
+        }
+        // If it's not the object to be updated, return the original object
+        return obj;
+      });
+    });
+  };
+
+  const logInfo = (info) => {
+    console.log(info)
   }
 
   const splitPosName = (name: String): String[] => {
@@ -23,6 +44,11 @@ const ByPosAndSkuTable = () => {
 
   return (
     <div className="p-2 box-border">
+      <IconButton onClick={setSorting}>
+        <SvgIcon fontSize="medium">
+          <Bars3Icon />
+        </SvgIcon>
+      </IconButton>
       <PivotViewComponent
         ref={d => pivotObj = d}
         gridSettings={gridSettings}
@@ -43,9 +69,9 @@ const ByPosAndSkuTable = () => {
                     key={index}
                     title={`${item}`}
                     style={{
-                      width: "120px",
+                      width: '33.3%',
                       marginRight: '5px',
-                      height: "16px",
+                      height: '16px',
                       background: '#fff',
                       overflow: 'hidden',
                       whiteSpace: 'nowrap',
@@ -70,10 +96,7 @@ const ByPosAndSkuTable = () => {
           expandAll: false,
           filters: [],
           formatSettings: [{ name: 'diff_percentage', format: 'p2' }],
-          rows: [
-            { name: "customer_sort_by_pos_color_desc", caption: "POS Name", dataType: 'number' },
-            { name: "item_field", caption: "SKU Name" },
-          ],
+          rows: tableRows,
           conditionalFormatSettings: [
             {
               measure: 'diff_percentage',
@@ -81,7 +104,8 @@ const ByPosAndSkuTable = () => {
               value2: -0.3,
               conditions: 'Between',
               style: {
-                backgroundColor: 'yellow',
+                // main warning color
+                backgroundColor: '#F79009',
                 color: 'white',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
@@ -92,7 +116,8 @@ const ByPosAndSkuTable = () => {
               value1: -0.3,
               conditions: 'LessThan',
               style: {
-                backgroundColor: 'red',
+                // main error color
+                backgroundColor: '#F04438',
                 color: 'white',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
@@ -103,7 +128,8 @@ const ByPosAndSkuTable = () => {
               value1: 0.05,
               conditions: 'GreaterThan',
               style: {
-                backgroundColor: 'green',
+                // main success color
+                backgroundColor: '#10B981',
                 color: 'white',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
@@ -115,7 +141,8 @@ const ByPosAndSkuTable = () => {
               value2: 0.049,
               conditions: 'Between',
               style: {
-                backgroundColor: 'blue',
+                // main info color
+                backgroundColor: '#06AED4',
                 color: 'white',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
