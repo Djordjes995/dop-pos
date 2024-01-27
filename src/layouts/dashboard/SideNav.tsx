@@ -23,6 +23,10 @@ export const SideNav = (props: any) => {
       path: '/'
     },
     {
+      name: 'Pivot Table Test',
+      path: '/pivot-test'
+    },
+    {
       name: 'Wanted Stocks',
       path: '/wanted-stocks'
     },

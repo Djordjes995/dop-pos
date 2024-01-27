@@ -8,6 +8,7 @@ import Catalogue from '../pages/Catalogue';
 import WantedStocks from '../pages/WantedStocks';
 import Test from '../pages/Test';
 import RegularOrder from '../pages/RegularOrder';
+import BySkuTable from '../components/BySkuTable';
 import { Dashboard as DashboardLayout } from '../layouts/dashboard/Dashboard';
 import { Layout as AuthLayout } from '../layouts/auth/Layout';
 
@@ -43,7 +44,7 @@ const AppRouter: React.FC = () => {
           </DashboardLayout>
         } />
 
-        <Route path="/test" element={
+        <Route path="/pivot-test" element={
           <DashboardLayout>
             <Test />
           </DashboardLayout>

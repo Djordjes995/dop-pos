@@ -45,6 +45,7 @@ const ByPosAndSkuTable = () => {
   return (
     <div className="p-2 box-border">
       <IconButton onClick={setSorting}>
+        sort
         <SvgIcon fontSize="medium">
           <Bars3Icon />
         </SvgIcon>
