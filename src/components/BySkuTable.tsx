@@ -3,7 +3,7 @@ import {
   FieldList,
   Inject,
   PivotViewComponent,
-  ConditionalFormatting
+  ConditionalFormatting,
 } from "@syncfusion/ej2-react-pivotview";
 import { by_pos_and_sku } from '../assets/mock';
 import { useState } from 'react';
@@ -13,13 +13,27 @@ import Bars3Icon from '@heroicons/react/24/solid/Bars3Icon';
 const ByPosAndSkuTable = () => {
   const data = by_pos_and_sku;
   const [tableRows, setTableRows] = useState([
-    { name: "customer_sort_by_pos_color_desc", caption: "POS Name", dataType: 'number' },
-    { name: "item_field", caption: "SKU Name" },
+    { name: "customer_sort_by_pos_color_desc", caption: "POS Name", dataType: 'number', disableHtmlEncode: true },
+    { name: "item_field", caption: "SKU Name", disableHtmlEncode: true },
   ])
-
-  let gridSettings = {
-  };
   let pivotObj: any;
+
+  const gridSettings = {
+    columnRender: columnRender.bind(this),
+    allowTextWrap: true,
+    rowHeight: 48,
+    height: '100',
+    width: 'auto'
+  };
+
+  function columnRender(args) {
+    console.log(args)
+    console.log(pivotObj)
+    args.columns[0].width = 500;
+    for (let i = 1; i < args.columns.length; i++) {
+      args.columns[i].width = 120;
+    }
+  }
 
   const setSorting = () => {
     setTableRows((prevDataArray) => {
@@ -34,17 +48,9 @@ const ByPosAndSkuTable = () => {
     });
   };
 
-  const logInfo = (info) => {
-    console.log(info)
-  }
-
-  const splitPosName = (name: String): String[] => {
-    return name.split('|')
-  }
-
   return (
     <div className="p-2 box-border">
-      <IconButton onClick={setSorting}>
+      <IconButton onClick={setSorting} sx={{ mb: 1 }}>
         sort
         <SvgIcon fontSize="medium">
           <Bars3Icon />
@@ -53,42 +59,6 @@ const ByPosAndSkuTable = () => {
       <PivotViewComponent
         ref={d => pivotObj = d}
         gridSettings={gridSettings}
-        cellTemplate={(args: any) => {
-          if (args.targetCell.ariaColIndex === "1" && args.cellInfo.level < 2)
-            return (
-              <div onClick={() => logInfo(args)} style={{
-                display: "flex",
-                background: "white",
-                position: "absolute",
-                top: 8,
-                left: 21,
-                right: 21,
-                bottom: 0,
-              }}>
-                {splitPosName(args.cellInfo.actualText).map((item, index) => {
-                  return <div
-                    key={index}
-                    title={`${item}`}
-                    style={{
-                      width: '33.3%',
-                      marginRight: '5px',
-                      height: '16px',
-                      background: '#fff',
-                      overflow: 'hidden',
-                      whiteSpace: 'nowrap',
-                      textOverflow: 'ellipsis',
-                      lineHeight: 1,
-                      display: index === 0 ? 'none' : 'block'
-                    }}>
-                    {item}
-                  </div>
-                })}
-              </div>
-            );
-          else return;
-        }}
-        height={"100%"}
-        width={"100%"}
         showFieldList={true}
         allowCalculatedField={true}
         allowConditionalFormatting={true}
@@ -106,8 +76,8 @@ const ByPosAndSkuTable = () => {
               conditions: 'Between',
               style: {
                 // main warning color
-                backgroundColor: '#F79009',
-                color: 'white',
+                // backgroundColor: '#F79009',
+                color: '#F79009',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
               }
@@ -118,8 +88,8 @@ const ByPosAndSkuTable = () => {
               conditions: 'LessThan',
               style: {
                 // main error color
-                backgroundColor: '#F04438',
-                color: 'white',
+                // backgroundColor: '#F04438',
+                color: '#F04438',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
               }
@@ -130,8 +100,8 @@ const ByPosAndSkuTable = () => {
               conditions: 'GreaterThan',
               style: {
                 // main success color
-                backgroundColor: '#10B981',
-                color: 'white',
+                // backgroundColor: '#10B981',
+                color: '#10B981',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
               }
@@ -143,8 +113,8 @@ const ByPosAndSkuTable = () => {
               conditions: 'Between',
               style: {
                 // main info color
-                backgroundColor: '#06AED4',
-                color: 'white',
+                // backgroundColor: '#06AED4',
+                color: '#06AED4',
                 fontFamily: 'Tahoma',
                 fontSize: '12px'
               }

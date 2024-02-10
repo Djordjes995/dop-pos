@@ -7,13 +7,14 @@
 @import '../node_modules/@syncfusion/ej2-popups/styles/material.css';
 @import '../node_modules/@syncfusion/ej2-splitbuttons/styles/material.css';
 @import "../node_modules/@syncfusion/ej2-react-grids/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-pivotview/styles/material.css";
 
 html,
 body {
   margin: 0;
   padding: 0;
 }
-
+/* 
 .e-icons.e-expand::before {
   content: '\e859';
   position: relative;
@@ -26,8 +27,31 @@ body {
   position: relative;
   z-index: 1;
   margin-left: -15px;
+} */
+
+.e-icons.e-expand {
+  margin-bottom: 8px;
 }
 
 .e-rowcell.e-rowsheader {
   position: relative;
+}
+
+.cell-container {
+  display: grid;
+  grid-auto-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+  position: absolute;
+  top: 0;
+  left: 24px;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.cell-column {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
 }
