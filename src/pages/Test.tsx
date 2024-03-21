@@ -1,6 +1,7 @@
 import React from 'react';
 import PosSkuTable from '../components/PosSkuTable'
 import BySkuTable from '../components/BySkuTable'
+import CustomPivotWrapper from '../components/CustomPivotWrapper'
 
 export default () => {
 
@@ -9,7 +10,8 @@ export default () => {
             {/* <PosSkuTable /> */}
             <br />
             <br />
-            <BySkuTable />
+            {/* <BySkuTable /> */}
+            <CustomPivotWrapper />
         </div>
     );
 };

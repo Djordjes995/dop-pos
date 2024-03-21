@@ -1,5 +1,6 @@
 export const by_pos_and_sku = [
-    {
+  {
+      "id": "_px5i2zecu",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -7,8 +8,9 @@ export const by_pos_and_sku = [
       "order_amount": 211700,
       "diff": 14500,
       "diff_perc": 0.0735294118
-    },
-    {
+  },
+  {
+      "id": "_8o5h19la1",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -16,8 +18,9 @@ export const by_pos_and_sku = [
       "order_amount": 130500,
       "diff": 14500,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_2gdlasu34",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -25,8 +28,9 @@ export const by_pos_and_sku = [
       "order_amount": 64320,
       "diff": 13440,
       "diff_perc": 0.2641509434
-    },
-    {
+  },
+  {
+      "id": "_1qrak6ys9",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -34,8 +38,9 @@ export const by_pos_and_sku = [
       "order_amount": 29000,
       "diff": 8700,
       "diff_perc": 0.4285714286
-    },
-    {
+  },
+  {
+      "id": "_glwfga2pg",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -43,8 +48,9 @@ export const by_pos_and_sku = [
       "order_amount": 70400,
       "diff": 8320,
       "diff_perc": 0.1340206186
-    },
-    {
+  },
+  {
+      "id": "_qk650lrz1",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -52,8 +58,9 @@ export const by_pos_and_sku = [
       "order_amount": 71120,
       "diff": 7280,
       "diff_perc": 0.1140350877
-    },
-    {
+  },
+  {
+      "id": "_0kcnwrr3q",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -61,8 +68,9 @@ export const by_pos_and_sku = [
       "order_amount": 28600,
       "diff": 6600,
       "diff_perc": 0.3
-    },
-    {
+  },
+  {
+      "id": "_kj1mwyymy",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -70,8 +78,9 @@ export const by_pos_and_sku = [
       "order_amount": 35200,
       "diff": 6600,
       "diff_perc": 0.2307692308
-    },
-    {
+  },
+  {
+      "id": "_yopsrfrzi",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -79,8 +88,9 @@ export const by_pos_and_sku = [
       "order_amount": 30800,
       "diff": 6600,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_ok8723ss6",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -88,8 +98,9 @@ export const by_pos_and_sku = [
       "order_amount": 79200,
       "diff": 6600,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_2z3nevt15",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -97,8 +108,9 @@ export const by_pos_and_sku = [
       "order_amount": 25920,
       "diff": 6240,
       "diff_perc": 0.3170731707
-    },
-    {
+  },
+  {
+      "id": "_bgb1v4ayn",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -106,8 +118,9 @@ export const by_pos_and_sku = [
       "order_amount": 63800,
       "diff": 5800,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_exm9osf8y",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -115,8 +128,9 @@ export const by_pos_and_sku = [
       "order_amount": 31900,
       "diff": 5800,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_ly4m3069c",
       "customer_sort_by_customer_id_asc": "352|STR Vuk|STR Vuk|General Trade|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "352|STR Vuk|STR Vuk|Grocery Self Service",
@@ -124,8 +138,9 @@ export const by_pos_and_sku = [
       "order_amount": 29000,
       "diff": 5800,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_i1eoy89ga",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -133,8 +148,9 @@ export const by_pos_and_sku = [
       "order_amount": 23040,
       "diff": 5760,
       "diff_perc": 0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_bh4yr82rg",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -142,8 +158,9 @@ export const by_pos_and_sku = [
       "order_amount": 36000,
       "diff": 5280,
       "diff_perc": 0.171875
-    },
-    {
+  },
+  {
+      "id": "_j7d295spz",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -151,8 +168,9 @@ export const by_pos_and_sku = [
       "order_amount": 59520,
       "diff": 5120,
       "diff_perc": 0.0941176471
-    },
-    {
+  },
+  {
+      "id": "_it4rnmgp2",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -160,8 +178,9 @@ export const by_pos_and_sku = [
       "order_amount": 37350,
       "diff": 4950,
       "diff_perc": 0.1527777778
-    },
-    {
+  },
+  {
+      "id": "_p63ith1bq",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -169,8 +188,9 @@ export const by_pos_and_sku = [
       "order_amount": 13300,
       "diff": 4480,
       "diff_perc": 0.5079365079
-    },
-    {
+  },
+  {
+      "id": "_giylbn3vg",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -178,8 +198,9 @@ export const by_pos_and_sku = [
       "order_amount": 39600,
       "diff": 4400,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_msyopdgpz",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -187,8 +208,9 @@ export const by_pos_and_sku = [
       "order_amount": 24200,
       "diff": 4400,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_9x2tnxz3d",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -196,8 +218,9 @@ export const by_pos_and_sku = [
       "order_amount": 24200,
       "diff": 4400,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_dim4svwq3",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -205,8 +228,9 @@ export const by_pos_and_sku = [
       "order_amount": 28600,
       "diff": 4400,
       "diff_perc": 0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_xleaytap9",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -214,8 +238,9 @@ export const by_pos_and_sku = [
       "order_amount": 26400,
       "diff": 4400,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_a3s5wowcf",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -223,8 +248,9 @@ export const by_pos_and_sku = [
       "order_amount": 39600,
       "diff": 4400,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_h744548mx",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -232,8 +258,9 @@ export const by_pos_and_sku = [
       "order_amount": 26400,
       "diff": 4400,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_apd2dujrq",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -241,8 +268,9 @@ export const by_pos_and_sku = [
       "order_amount": 29760,
       "diff": 4320,
       "diff_perc": 0.1698113208
-    },
-    {
+  },
+  {
+      "id": "_yqiwvnsp2",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -250,8 +278,9 @@ export const by_pos_and_sku = [
       "order_amount": 43120,
       "diff": 3920,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_36sycjip6",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -259,8 +288,9 @@ export const by_pos_and_sku = [
       "order_amount": 20160,
       "diff": 3920,
       "diff_perc": 0.2413793103
-    },
-    {
+  },
+  {
+      "id": "_bbfupf26h",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -268,8 +298,9 @@ export const by_pos_and_sku = [
       "order_amount": 19500,
       "diff": 3900,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_3xa0kzvrw",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -277,8 +308,9 @@ export const by_pos_and_sku = [
       "order_amount": 12120,
       "diff": 3480,
       "diff_perc": 0.4027777778
-    },
-    {
+  },
+  {
+      "id": "_kk9j1am2w",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -286,8 +318,9 @@ export const by_pos_and_sku = [
       "order_amount": 12960,
       "diff": 3360,
       "diff_perc": 0.35
-    },
-    {
+  },
+  {
+      "id": "_ye98oxylf",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -295,8 +328,9 @@ export const by_pos_and_sku = [
       "order_amount": 14690,
       "diff": 3120,
       "diff_perc": 0.2696629213
-    },
-    {
+  },
+  {
+      "id": "_2r6oo9ock",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -304,8 +338,9 @@ export const by_pos_and_sku = [
       "order_amount": 23200,
       "diff": 2900,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_e9v98k6jv",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -313,8 +348,9 @@ export const by_pos_and_sku = [
       "order_amount": 113100,
       "diff": 2900,
       "diff_perc": 0.0263157895
-    },
-    {
+  },
+  {
+      "id": "_ddme8dt80",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -322,8 +358,9 @@ export const by_pos_and_sku = [
       "order_amount": 31900,
       "diff": 2900,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_wkeopqetm",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -331,8 +368,9 @@ export const by_pos_and_sku = [
       "order_amount": 49300,
       "diff": 2900,
       "diff_perc": 0.0625
-    },
-    {
+  },
+  {
+      "id": "_uaieio2wc",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -340,8 +378,9 @@ export const by_pos_and_sku = [
       "order_amount": 87000,
       "diff": 2900,
       "diff_perc": 0.0344827586
-    },
-    {
+  },
+  {
+      "id": "_zb5hfsnus",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -349,8 +388,9 @@ export const by_pos_and_sku = [
       "order_amount": 37440,
       "diff": 2880,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_9xfgcj27h",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -358,8 +398,9 @@ export const by_pos_and_sku = [
       "order_amount": 21600,
       "diff": 2700,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_e8ted8wuf",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -367,8 +408,9 @@ export const by_pos_and_sku = [
       "order_amount": 15950,
       "diff": 2610,
       "diff_perc": 0.1956521739
-    },
-    {
+  },
+  {
+      "id": "_jfxjfxgat",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -376,8 +418,9 @@ export const by_pos_and_sku = [
       "order_amount": 10240,
       "diff": 2560,
       "diff_perc": 0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_epnniqr7v",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -385,8 +428,9 @@ export const by_pos_and_sku = [
       "order_amount": 14880,
       "diff": 2400,
       "diff_perc": 0.1923076923
-    },
-    {
+  },
+  {
+      "id": "_z1taumxta",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -394,8 +438,9 @@ export const by_pos_and_sku = [
       "order_amount": 10560,
       "diff": 2400,
       "diff_perc": 0.2941176471
-    },
-    {
+  },
+  {
+      "id": "_jv728tp02",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -403,8 +448,9 @@ export const by_pos_and_sku = [
       "order_amount": 14210,
       "diff": 2320,
       "diff_perc": 0.1951219512
-    },
-    {
+  },
+  {
+      "id": "_in0rn0dk0",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -412,8 +458,9 @@ export const by_pos_and_sku = [
       "order_amount": 18450,
       "diff": 2250,
       "diff_perc": 0.1388888889
-    },
-    {
+  },
+  {
+      "id": "_1kkjhr2jj",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -421,8 +468,9 @@ export const by_pos_and_sku = [
       "order_amount": 6750,
       "diff": 2250,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_ow4exq588",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -430,8 +478,9 @@ export const by_pos_and_sku = [
       "order_amount": 28560,
       "diff": 2240,
       "diff_perc": 0.085106383
-    },
-    {
+  },
+  {
+      "id": "_gaedwxk0j",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -439,8 +488,9 @@ export const by_pos_and_sku = [
       "order_amount": 114400,
       "diff": 2200,
       "diff_perc": 0.0196078431
-    },
-    {
+  },
+  {
+      "id": "_1lzzjca6f",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -448,8 +498,9 @@ export const by_pos_and_sku = [
       "order_amount": 24200,
       "diff": 2200,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_ahj8hpgnh",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -457,8 +508,9 @@ export const by_pos_and_sku = [
       "order_amount": 19800,
       "diff": 2200,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_hvphz4kj2",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -466,8 +518,9 @@ export const by_pos_and_sku = [
       "order_amount": 22000,
       "diff": 2200,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_s7ou9dt6g",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -475,8 +528,9 @@ export const by_pos_and_sku = [
       "order_amount": 24200,
       "diff": 2200,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_ltaapju1s",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -484,8 +538,9 @@ export const by_pos_and_sku = [
       "order_amount": 22000,
       "diff": 2200,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_ymqwqhoin",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -493,8 +548,9 @@ export const by_pos_and_sku = [
       "order_amount": 28600,
       "diff": 2200,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_40853vt2g",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -502,8 +558,9 @@ export const by_pos_and_sku = [
       "order_amount": 22000,
       "diff": 2200,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_p89iwm2h8",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -511,8 +568,9 @@ export const by_pos_and_sku = [
       "order_amount": 19800,
       "diff": 2200,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_oo0nubcgu",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -520,8 +578,9 @@ export const by_pos_and_sku = [
       "order_amount": 10800,
       "diff": 2160,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_7wau766cm",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -529,8 +588,9 @@ export const by_pos_and_sku = [
       "order_amount": 10080,
       "diff": 2160,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_3frb7okzu",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -538,8 +598,9 @@ export const by_pos_and_sku = [
       "order_amount": 5580,
       "diff": 2160,
       "diff_perc": 0.6315789474
-    },
-    {
+  },
+  {
+      "id": "_bxpdlpms0",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -547,8 +608,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 2040,
       "diff_perc": 0.4
-    },
-    {
+  },
+  {
+      "id": "_6zbogrsf7",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -556,8 +618,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 2040,
       "diff_perc": 0.4
-    },
-    {
+  },
+  {
+      "id": "_quaf6kr4a",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -565,8 +628,9 @@ export const by_pos_and_sku = [
       "order_amount": 6630,
       "diff": 2040,
       "diff_perc": 0.4444444444
-    },
-    {
+  },
+  {
+      "id": "_vbtrhqpc7",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -574,8 +638,9 @@ export const by_pos_and_sku = [
       "order_amount": 13630,
       "diff": 2030,
       "diff_perc": 0.175
-    },
-    {
+  },
+  {
+      "id": "_pj2lef66a",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -583,8 +648,9 @@ export const by_pos_and_sku = [
       "order_amount": 7150,
       "diff": 1950,
       "diff_perc": 0.375
-    },
-    {
+  },
+  {
+      "id": "_hnllaifcr",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -592,8 +658,9 @@ export const by_pos_and_sku = [
       "order_amount": 14950,
       "diff": 1950,
       "diff_perc": 0.15
-    },
-    {
+  },
+  {
+      "id": "_0wmlgchsq",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -601,8 +668,9 @@ export const by_pos_and_sku = [
       "order_amount": 7800,
       "diff": 1950,
       "diff_perc": 0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_lmw9iesf9",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -610,8 +678,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": 1920,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_mvwtdrwrb",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -619,8 +688,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": 1920,
       "diff_perc": 0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_8rp2v7fj8",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -628,8 +698,9 @@ export const by_pos_and_sku = [
       "order_amount": 8960,
       "diff": 1920,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_b84d2w8li",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -637,8 +708,9 @@ export const by_pos_and_sku = [
       "order_amount": 10880,
       "diff": 1920,
       "diff_perc": 0.2142857143
-    },
-    {
+  },
+  {
+      "id": "_y421dyf3l",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -646,8 +718,9 @@ export const by_pos_and_sku = [
       "order_amount": 7650,
       "diff": 1800,
       "diff_perc": 0.3076923077
-    },
-    {
+  },
+  {
+      "id": "_cjngrqx7a",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -655,8 +728,9 @@ export const by_pos_and_sku = [
       "order_amount": 11400,
       "diff": 1800,
       "diff_perc": 0.1875
-    },
-    {
+  },
+  {
+      "id": "_kskr9cow1",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -664,8 +738,9 @@ export const by_pos_and_sku = [
       "order_amount": 13440,
       "diff": 1680,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_x3yecaj77",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -673,8 +748,9 @@ export const by_pos_and_sku = [
       "order_amount": 9520,
       "diff": 1680,
       "diff_perc": 0.2142857143
-    },
-    {
+  },
+  {
+      "id": "_fpilulqbm",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -682,8 +758,9 @@ export const by_pos_and_sku = [
       "order_amount": 7840,
       "diff": 1680,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_9isxfw8mp",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -691,8 +768,9 @@ export const by_pos_and_sku = [
       "order_amount": 7840,
       "diff": 1680,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_iafhdqyru",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -700,8 +778,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": 1560,
       "diff_perc": 0.2307692308
-    },
-    {
+  },
+  {
+      "id": "_ey8i37vl2",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -709,8 +788,9 @@ export const by_pos_and_sku = [
       "order_amount": 4900,
       "diff": 1540,
       "diff_perc": 0.4583333333
-    },
-    {
+  },
+  {
+      "id": "_ebozbc8l7",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -718,8 +798,9 @@ export const by_pos_and_sku = [
       "order_amount": 11730,
       "diff": 1530,
       "diff_perc": 0.15
-    },
-    {
+  },
+  {
+      "id": "_dwlbey59y",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -727,8 +808,9 @@ export const by_pos_and_sku = [
       "order_amount": 12240,
       "diff": 1530,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_phfndnr2f",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -736,8 +818,9 @@ export const by_pos_and_sku = [
       "order_amount": 10710,
       "diff": 1530,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_smb2921ys",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -745,8 +828,9 @@ export const by_pos_and_sku = [
       "order_amount": 8820,
       "diff": 1470,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_g4pa1dlzq",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -754,8 +838,9 @@ export const by_pos_and_sku = [
       "order_amount": 11890,
       "diff": 1450,
       "diff_perc": 0.1388888889
-    },
-    {
+  },
+  {
+      "id": "_2h4ilx9gy",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -763,8 +848,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": 1440,
       "diff_perc": 0.2307692308
-    },
-    {
+  },
+  {
+      "id": "_km1yo5net",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -772,8 +858,9 @@ export const by_pos_and_sku = [
       "order_amount": 14400,
       "diff": 1440,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_f3gm6aewc",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -781,8 +868,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": 1440,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_r013w1mnr",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -790,8 +878,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": 1440,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_jvp8l90o3",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -799,8 +888,9 @@ export const by_pos_and_sku = [
       "order_amount": 29520,
       "diff": 1440,
       "diff_perc": 0.0512820513
-    },
-    {
+  },
+  {
+      "id": "_1vj6kbupg",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -808,8 +898,9 @@ export const by_pos_and_sku = [
       "order_amount": 3900,
       "diff": 1300,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_c8t1ia1m9",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -817,8 +908,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": 1300,
       "diff_perc": 0.2857142857
-    },
-    {
+  },
+  {
+      "id": "_hiwhfrxxg",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -826,8 +918,9 @@ export const by_pos_and_sku = [
       "order_amount": 37760,
       "diff": 1280,
       "diff_perc": 0.0350877193
-    },
-    {
+  },
+  {
+      "id": "_dxffeq2jv",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -835,8 +928,9 @@ export const by_pos_and_sku = [
       "order_amount": 33280,
       "diff": 1280,
       "diff_perc": 0.04
-    },
-    {
+  },
+  {
+      "id": "_buvh8es5z",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -844,8 +938,9 @@ export const by_pos_and_sku = [
       "order_amount": 10880,
       "diff": 1280,
       "diff_perc": 0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_nzyezq7hd",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -853,8 +948,9 @@ export const by_pos_and_sku = [
       "order_amount": 11520,
       "diff": 1280,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_e2my355xi",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -862,8 +958,9 @@ export const by_pos_and_sku = [
       "order_amount": 7040,
       "diff": 1280,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_vz1l5e0ea",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -871,8 +968,9 @@ export const by_pos_and_sku = [
       "order_amount": 5880,
       "diff": 1260,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_k8szq02ef",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -880,8 +978,9 @@ export const by_pos_and_sku = [
       "order_amount": 6840,
       "diff": 1200,
       "diff_perc": 0.2127659574
-    },
-    {
+  },
+  {
+      "id": "_m1n3ocq3m",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -889,8 +988,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": 1200,
       "diff_perc": 0.2173913043
-    },
-    {
+  },
+  {
+      "id": "_ww28kmxgg",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -898,8 +998,9 @@ export const by_pos_and_sku = [
       "order_amount": 4440,
       "diff": 1200,
       "diff_perc": 0.3703703704
-    },
-    {
+  },
+  {
+      "id": "_2a3aoa735",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -907,8 +1008,9 @@ export const by_pos_and_sku = [
       "order_amount": 4930,
       "diff": 1160,
       "diff_perc": 0.3076923077
-    },
-    {
+  },
+  {
+      "id": "_weea6habu",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -916,8 +1018,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": 1120,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_j1bq1ql65",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -925,8 +1028,9 @@ export const by_pos_and_sku = [
       "order_amount": 13440,
       "diff": 1120,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_jdkx20mdj",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -934,8 +1038,9 @@ export const by_pos_and_sku = [
       "order_amount": 8400,
       "diff": 1120,
       "diff_perc": 0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_baqm7slnh",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -943,8 +1048,9 @@ export const by_pos_and_sku = [
       "order_amount": 6160,
       "diff": 1120,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_5fm2xl7q1",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -952,8 +1058,9 @@ export const by_pos_and_sku = [
       "order_amount": 5740,
       "diff": 1120,
       "diff_perc": 0.2424242424
-    },
-    {
+  },
+  {
+      "id": "_6ar3pz7mf",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -961,8 +1068,9 @@ export const by_pos_and_sku = [
       "order_amount": 26880,
       "diff": 1120,
       "diff_perc": 0.0434782609
-    },
-    {
+  },
+  {
+      "id": "_95f1dm5t5",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -970,8 +1078,9 @@ export const by_pos_and_sku = [
       "order_amount": 6600,
       "diff": 1080,
       "diff_perc": 0.1956521739
-    },
-    {
+  },
+  {
+      "id": "_qavln98hp",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -979,8 +1088,9 @@ export const by_pos_and_sku = [
       "order_amount": 17640,
       "diff": 1050,
       "diff_perc": 0.0632911392
-    },
-    {
+  },
+  {
+      "id": "_yrylmya6k",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -988,8 +1098,9 @@ export const by_pos_and_sku = [
       "order_amount": 21420,
       "diff": 1020,
       "diff_perc": 0.05
-    },
-    {
+  },
+  {
+      "id": "_xyzb7pkzy",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -997,8 +1108,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 1020,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_0sq4sio5n",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -1006,8 +1118,9 @@ export const by_pos_and_sku = [
       "order_amount": 7650,
       "diff": 1020,
       "diff_perc": 0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_ipqzbrzqp",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -1015,8 +1128,9 @@ export const by_pos_and_sku = [
       "order_amount": 5100,
       "diff": 1020,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_jgxgz6oux",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -1024,8 +1138,9 @@ export const by_pos_and_sku = [
       "order_amount": 5040,
       "diff": 980,
       "diff_perc": 0.2413793103
-    },
-    {
+  },
+  {
+      "id": "_h0v3qe95z",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -1033,8 +1148,9 @@ export const by_pos_and_sku = [
       "order_amount": 6440,
       "diff": 980,
       "diff_perc": 0.1794871795
-    },
-    {
+  },
+  {
+      "id": "_fhaw5bt9a",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -1042,8 +1158,9 @@ export const by_pos_and_sku = [
       "order_amount": 12120,
       "diff": 960,
       "diff_perc": 0.0860215054
-    },
-    {
+  },
+  {
+      "id": "_5yam36zfn",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -1051,8 +1168,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": 960,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_m5wjw0rtx",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -1060,8 +1178,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": 960,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_yuv6q20dc",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -1069,8 +1188,9 @@ export const by_pos_and_sku = [
       "order_amount": 10560,
       "diff": 960,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_wtgwouioz",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -1078,8 +1198,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": 960,
       "diff_perc": 0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_tafo2595i",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -1087,8 +1208,9 @@ export const by_pos_and_sku = [
       "order_amount": 9600,
       "diff": 960,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_b17xx6su2",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -1096,8 +1218,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": 960,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_a1xltge5g",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -1105,8 +1228,9 @@ export const by_pos_and_sku = [
       "order_amount": 21600,
       "diff": 900,
       "diff_perc": 0.0434782609
-    },
-    {
+  },
+  {
+      "id": "_6956j0yrv",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -1114,8 +1238,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": 900,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_k7grc32wa",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -1123,8 +1248,9 @@ export const by_pos_and_sku = [
       "order_amount": 6300,
       "diff": 900,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_dhivauojb",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -1132,8 +1258,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": 900,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_80o9jwe9z",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -1141,8 +1268,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": 900,
       "diff_perc": 0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_521wabhep",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -1150,8 +1278,9 @@ export const by_pos_and_sku = [
       "order_amount": 4950,
       "diff": 900,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_0k7bcn467",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -1159,8 +1288,9 @@ export const by_pos_and_sku = [
       "order_amount": 9000,
       "diff": 900,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_kzabkd0uo",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -1168,8 +1298,9 @@ export const by_pos_and_sku = [
       "order_amount": 4950,
       "diff": 900,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_8qn8uwopy",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -1177,8 +1308,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": 900,
       "diff_perc": 0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_y0l2vrrms",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -1186,8 +1318,9 @@ export const by_pos_and_sku = [
       "order_amount": 5400,
       "diff": 900,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_bqll8y0ou",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -1195,8 +1328,9 @@ export const by_pos_and_sku = [
       "order_amount": 4350,
       "diff": 870,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_nknb3gn5t",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -1204,8 +1338,9 @@ export const by_pos_and_sku = [
       "order_amount": 19430,
       "diff": 870,
       "diff_perc": 0.046875
-    },
-    {
+  },
+  {
+      "id": "_dli2u2ezz",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -1213,8 +1348,9 @@ export const by_pos_and_sku = [
       "order_amount": 21840,
       "diff": 840,
       "diff_perc": 0.04
-    },
-    {
+  },
+  {
+      "id": "_6pteup3sp",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -1222,8 +1358,9 @@ export const by_pos_and_sku = [
       "order_amount": 11160,
       "diff": 840,
       "diff_perc": 0.0813953488
-    },
-    {
+  },
+  {
+      "id": "_nq50wfxdg",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -1231,8 +1368,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": 840,
       "diff_perc": 0.1707317073
-    },
-    {
+  },
+  {
+      "id": "_aa49dgci6",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -1240,8 +1378,9 @@ export const by_pos_and_sku = [
       "order_amount": 7560,
       "diff": 840,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_8kmehtd2u",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -1249,8 +1388,9 @@ export const by_pos_and_sku = [
       "order_amount": 9240,
       "diff": 840,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_2dowxqyw4",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -1258,8 +1398,9 @@ export const by_pos_and_sku = [
       "order_amount": 5400,
       "diff": 840,
       "diff_perc": 0.1842105263
-    },
-    {
+  },
+  {
+      "id": "_dwh4f5lpe",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -1267,8 +1408,9 @@ export const by_pos_and_sku = [
       "order_amount": 5040,
       "diff": 840,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_ufnooqvyk",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -1276,8 +1418,9 @@ export const by_pos_and_sku = [
       "order_amount": 9620,
       "diff": 780,
       "diff_perc": 0.0882352941
-    },
-    {
+  },
+  {
+      "id": "_4a4deui92",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -1285,8 +1428,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": 720,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_pdu79uy68",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "5|Croccante  |Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -1294,8 +1438,9 @@ export const by_pos_and_sku = [
       "order_amount": 3060,
       "diff": 720,
       "diff_perc": 0.3076923077
-    },
-    {
+  },
+  {
+      "id": "_goenejoxm",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -1303,8 +1448,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": 720,
       "diff_perc": 0.2608695652
-    },
-    {
+  },
+  {
+      "id": "_2rnrn1fsk",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -1312,8 +1458,9 @@ export const by_pos_and_sku = [
       "order_amount": 6240,
       "diff": 720,
       "diff_perc": 0.1304347826
-    },
-    {
+  },
+  {
+      "id": "_b5x74tta2",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -1321,8 +1468,9 @@ export const by_pos_and_sku = [
       "order_amount": 7000,
       "diff": 700,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_z783gvjb8",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -1330,8 +1478,9 @@ export const by_pos_and_sku = [
       "order_amount": 14300,
       "diff": 650,
       "diff_perc": 0.0476190476
-    },
-    {
+  },
+  {
+      "id": "_qxlhams1s",
       "customer_sort_by_customer_id_asc": "27|Maxi 27|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "27|Maxi 27|Maxi|Grocery Self Service",
@@ -1339,8 +1488,9 @@ export const by_pos_and_sku = [
       "order_amount": 5200,
       "diff": 650,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_57unnw2ka",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -1348,8 +1498,9 @@ export const by_pos_and_sku = [
       "order_amount": 7150,
       "diff": 650,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_ebd9xfi9l",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -1357,8 +1508,9 @@ export const by_pos_and_sku = [
       "order_amount": 7150,
       "diff": 650,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_24cf231a3",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -1366,8 +1518,9 @@ export const by_pos_and_sku = [
       "order_amount": 11520,
       "diff": 640,
       "diff_perc": 0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_v19uhqvfi",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -1375,8 +1528,9 @@ export const by_pos_and_sku = [
       "order_amount": 16640,
       "diff": 640,
       "diff_perc": 0.04
-    },
-    {
+  },
+  {
+      "id": "_pf4a4we6l",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -1384,8 +1538,9 @@ export const by_pos_and_sku = [
       "order_amount": 13440,
       "diff": 640,
       "diff_perc": 0.05
-    },
-    {
+  },
+  {
+      "id": "_v0au9qgz2",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -1393,8 +1548,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": 640,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_jys0myy8t",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -1402,8 +1558,9 @@ export const by_pos_and_sku = [
       "order_amount": 8960,
       "diff": 640,
       "diff_perc": 0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_8v995irvm",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -1411,8 +1568,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": 640,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_zq01uezfo",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -1420,8 +1578,9 @@ export const by_pos_and_sku = [
       "order_amount": 14070,
       "diff": 630,
       "diff_perc": 0.046875
-    },
-    {
+  },
+  {
+      "id": "_sbmo10m1v",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -1429,8 +1588,9 @@ export const by_pos_and_sku = [
       "order_amount": 3600,
       "diff": 600,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_q5s8jka32",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -1438,8 +1598,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": 600,
       "diff_perc": 0.3571428571
-    },
-    {
+  },
+  {
+      "id": "_6l1ws3euo",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -1447,8 +1608,9 @@ export const by_pos_and_sku = [
       "order_amount": 2760,
       "diff": 600,
       "diff_perc": 0.2777777778
-    },
-    {
+  },
+  {
+      "id": "_yap52ob5l",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -1456,8 +1618,9 @@ export const by_pos_and_sku = [
       "order_amount": 5510,
       "diff": 580,
       "diff_perc": 0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_rox41ntrg",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -1465,8 +1628,9 @@ export const by_pos_and_sku = [
       "order_amount": 4060,
       "diff": 580,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_7xgags29z",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -1474,8 +1638,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": 580,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_c11lq4b68",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -1483,8 +1648,9 @@ export const by_pos_and_sku = [
       "order_amount": 6670,
       "diff": 580,
       "diff_perc": 0.0952380952
-    },
-    {
+  },
+  {
+      "id": "_9gd05hbox",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -1492,8 +1658,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": 580,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_18o74eigr",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -1501,8 +1668,9 @@ export const by_pos_and_sku = [
       "order_amount": 4640,
       "diff": 580,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_2w8ifu7wx",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -1510,8 +1678,9 @@ export const by_pos_and_sku = [
       "order_amount": 10640,
       "diff": 560,
       "diff_perc": 0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_2bwz2lrxg",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -1519,8 +1688,9 @@ export const by_pos_and_sku = [
       "order_amount": 1960,
       "diff": 560,
       "diff_perc": 0.4
-    },
-    {
+  },
+  {
+      "id": "_yluq36qk6",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -1528,8 +1698,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": 560,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_yt6rmtc7t",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -1537,8 +1708,9 @@ export const by_pos_and_sku = [
       "order_amount": 10080,
       "diff": 560,
       "diff_perc": 0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_9efzrkxvq",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -1546,8 +1718,9 @@ export const by_pos_and_sku = [
       "order_amount": 9520,
       "diff": 560,
       "diff_perc": 0.0625
-    },
-    {
+  },
+  {
+      "id": "_1pg9yyp2y",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -1555,8 +1728,9 @@ export const by_pos_and_sku = [
       "order_amount": 14000,
       "diff": 560,
       "diff_perc": 0.0416666667
-    },
-    {
+  },
+  {
+      "id": "_0cdg59zat",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -1564,8 +1738,9 @@ export const by_pos_and_sku = [
       "order_amount": 2100,
       "diff": 560,
       "diff_perc": 0.3636363636
-    },
-    {
+  },
+  {
+      "id": "_u5xa3gfan",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -1573,8 +1748,9 @@ export const by_pos_and_sku = [
       "order_amount": 3080,
       "diff": 560,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_v06ys0tgh",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -1582,8 +1758,9 @@ export const by_pos_and_sku = [
       "order_amount": 7280,
       "diff": 560,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_8wzzuu19b",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -1591,8 +1768,9 @@ export const by_pos_and_sku = [
       "order_amount": 10080,
       "diff": 560,
       "diff_perc": 0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_rz4qzdw3f",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -1600,8 +1778,9 @@ export const by_pos_and_sku = [
       "order_amount": 7280,
       "diff": 560,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_er8q1n4u6",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -1609,8 +1788,9 @@ export const by_pos_and_sku = [
       "order_amount": 7740,
       "diff": 540,
       "diff_perc": 0.075
-    },
-    {
+  },
+  {
+      "id": "_u03y4frcp",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -1618,8 +1798,9 @@ export const by_pos_and_sku = [
       "order_amount": 2210,
       "diff": 520,
       "diff_perc": 0.3076923077
-    },
-    {
+  },
+  {
+      "id": "_w4tn8bxm7",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -1627,8 +1808,9 @@ export const by_pos_and_sku = [
       "order_amount": 5100,
       "diff": 510,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_wg69pyxft",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -1636,8 +1818,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": 510,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_4hfadrb30",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -1645,8 +1828,9 @@ export const by_pos_and_sku = [
       "order_amount": 8160,
       "diff": 510,
       "diff_perc": 0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_0epi3gxbb",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -1654,8 +1838,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 510,
       "diff_perc": 0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_d0txjzxn9",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -1663,8 +1848,9 @@ export const by_pos_and_sku = [
       "order_amount": 12750,
       "diff": 510,
       "diff_perc": 0.0416666667
-    },
-    {
+  },
+  {
+      "id": "_gl2xls27c",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -1672,8 +1858,9 @@ export const by_pos_and_sku = [
       "order_amount": 6630,
       "diff": 510,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_yci6env7e",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -1681,8 +1868,9 @@ export const by_pos_and_sku = [
       "order_amount": 9690,
       "diff": 510,
       "diff_perc": 0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_bhu0obhzl",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -1690,8 +1878,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": 510,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_xehdcxfiw",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -1699,8 +1888,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": 510,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_ygu9fg3nw",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -1708,8 +1898,9 @@ export const by_pos_and_sku = [
       "order_amount": 7650,
       "diff": 510,
       "diff_perc": 0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_utdulohzj",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -1717,8 +1908,9 @@ export const by_pos_and_sku = [
       "order_amount": 7650,
       "diff": 510,
       "diff_perc": 0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_qo05fg099",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -1726,8 +1918,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": 480,
       "diff_perc": 0.2857142857
-    },
-    {
+  },
+  {
+      "id": "_ux7uyy72p",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -1735,8 +1928,9 @@ export const by_pos_and_sku = [
       "order_amount": 9120,
       "diff": 480,
       "diff_perc": 0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_chcvvyzlh",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -1744,8 +1938,9 @@ export const by_pos_and_sku = [
       "order_amount": 8160,
       "diff": 480,
       "diff_perc": 0.0625
-    },
-    {
+  },
+  {
+      "id": "_371426uiq",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -1753,8 +1948,9 @@ export const by_pos_and_sku = [
       "order_amount": 9120,
       "diff": 480,
       "diff_perc": 0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_ahtegw3x1",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -1762,8 +1958,9 @@ export const by_pos_and_sku = [
       "order_amount": 9120,
       "diff": 480,
       "diff_perc": 0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_ugexyq5on",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -1771,8 +1968,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": 480,
       "diff_perc": 0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_s747p2dtg",
       "customer_sort_by_customer_id_asc": "169|Aman 19|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "169|Aman 19|Aman|Grocery Self Service",
@@ -1780,8 +1978,9 @@ export const by_pos_and_sku = [
       "order_amount": 2880,
       "diff": 480,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_c56s3sskk",
       "customer_sort_by_customer_id_asc": "173|Aman 23|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "173|Aman 23|Aman|Grocery Self Service",
@@ -1789,8 +1988,9 @@ export const by_pos_and_sku = [
       "order_amount": 3360,
       "diff": 480,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_nqhc9g2fx",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -1798,8 +1998,9 @@ export const by_pos_and_sku = [
       "order_amount": 4800,
       "diff": 480,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_tpyr8g4rt",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -1807,8 +2008,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": 480,
       "diff_perc": 0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_0q756zgtq",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -1816,8 +2018,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 480,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_02dafhmbj",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -1825,8 +2028,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": 480,
       "diff_perc": 0.2666666667
-    },
-    {
+  },
+  {
+      "id": "_8s3lwczik",
       "customer_sort_by_customer_id_asc": "303|Jug Trgovina 13|Jug Trgovina|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "303|Jug Trgovina 13|Jug Trgovina|Grocery Self Service",
@@ -1834,8 +2038,9 @@ export const by_pos_and_sku = [
       "order_amount": 2880,
       "diff": 480,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_4x6wffq6d",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -1843,8 +2048,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": 480,
       "diff_perc": 0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_61wbcl9c3",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -1852,8 +2058,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": 480,
       "diff_perc": 0.2666666667
-    },
-    {
+  },
+  {
+      "id": "_73muwx9h8",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -1861,8 +2068,9 @@ export const by_pos_and_sku = [
       "order_amount": 6240,
       "diff": 480,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_0jiwczx51",
       "customer_sort_by_customer_id_asc": "409|Camac|Camac|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "409|Camac|Camac|Grocery Counter",
@@ -1870,8 +2078,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 480,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_71tfexqw1",
       "customer_sort_by_customer_id_asc": "412|Svetlo|Svetlo|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "412|Svetlo|Svetlo|Grocery Self Service",
@@ -1879,8 +2088,9 @@ export const by_pos_and_sku = [
       "order_amount": 3360,
       "diff": 480,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_a7nhpb3wl",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -1888,8 +2098,9 @@ export const by_pos_and_sku = [
       "order_amount": 6360,
       "diff": 480,
       "diff_perc": 0.0816326531
-    },
-    {
+  },
+  {
+      "id": "_duoecm1vd",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -1897,8 +2108,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": 480,
       "diff_perc": 0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_uu371bprs",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -1906,8 +2118,9 @@ export const by_pos_and_sku = [
       "order_amount": 6240,
       "diff": 480,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_molro8rjo",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -1915,8 +2128,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": 480,
       "diff_perc": 0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_jejho28lg",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -1924,8 +2138,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": 450,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_9pbtibgpk",
       "customer_sort_by_customer_id_asc": "163|Aman 13|Aman|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "163|Aman 13|Aman|Grocery Self Service",
@@ -1933,8 +2148,9 @@ export const by_pos_and_sku = [
       "order_amount": 900,
       "diff": 450,
       "diff_perc": 1
-    },
-    {
+  },
+  {
+      "id": "_kcobg09xv",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -1942,8 +2158,9 @@ export const by_pos_and_sku = [
       "order_amount": 3150,
       "diff": 450,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_g617azuh6",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -1951,8 +2168,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": 450,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_iiehditip",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -1960,8 +2178,9 @@ export const by_pos_and_sku = [
       "order_amount": 6750,
       "diff": 450,
       "diff_perc": 0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_jm20yhjqb",
       "customer_sort_by_customer_id_asc": "270|Trafikoni 35|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "270|Trafikoni 35|Trafikoni|Grocery Counter",
@@ -1969,8 +2188,9 @@ export const by_pos_and_sku = [
       "order_amount": 1350,
       "diff": 450,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_qaxkwd6fn",
       "customer_sort_by_customer_id_asc": "286|Banat Tade 16|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "286|Banat Tade 16|Banat Tade|Grocery Self Service",
@@ -1978,8 +2198,9 @@ export const by_pos_and_sku = [
       "order_amount": 1350,
       "diff": 450,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_xh3aw27ih",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -1987,8 +2208,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": 450,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_v2btst7ha",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -1996,8 +2218,9 @@ export const by_pos_and_sku = [
       "order_amount": 4950,
       "diff": 450,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_s0hx53xxy",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -2005,8 +2228,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": 450,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_z1nv6otve",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -2014,8 +2238,9 @@ export const by_pos_and_sku = [
       "order_amount": 13950,
       "diff": 450,
       "diff_perc": 0.0333333333
-    },
-    {
+  },
+  {
+      "id": "_qrs2onc3a",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -2023,8 +2248,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": 450,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_iads4ptwl",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -2032,8 +2258,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": 450,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_1ylh14zsu",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -2041,8 +2268,9 @@ export const by_pos_and_sku = [
       "order_amount": 1820,
       "diff": 420,
       "diff_perc": 0.3
-    },
-    {
+  },
+  {
+      "id": "_oewfqoxe9",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -2050,8 +2278,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 420,
       "diff_perc": 0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_9kzv2hj02",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -2059,8 +2288,9 @@ export const by_pos_and_sku = [
       "order_amount": 4760,
       "diff": 420,
       "diff_perc": 0.0967741935
-    },
-    {
+  },
+  {
+      "id": "_2hdf162zi",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -2068,8 +2298,9 @@ export const by_pos_and_sku = [
       "order_amount": 2860,
       "diff": 390,
       "diff_perc": 0.1578947368
-    },
-    {
+  },
+  {
+      "id": "_0bjsjug30",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -2077,8 +2308,9 @@ export const by_pos_and_sku = [
       "order_amount": 4420,
       "diff": 390,
       "diff_perc": 0.0967741935
-    },
-    {
+  },
+  {
+      "id": "_xfhmknhpf",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -2086,8 +2318,9 @@ export const by_pos_and_sku = [
       "order_amount": 3000,
       "diff": 360,
       "diff_perc": 0.1363636364
-    },
-    {
+  },
+  {
+      "id": "_5rq3sjzgj",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -2095,8 +2328,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 360,
       "diff_perc": 0.3
-    },
-    {
+  },
+  {
+      "id": "_291yn90vy",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -2104,8 +2338,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": 360,
       "diff_perc": 0.375
-    },
-    {
+  },
+  {
+      "id": "_iwbu7ee9i",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -2113,8 +2348,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": 360,
       "diff_perc": 0.1875
-    },
-    {
+  },
+  {
+      "id": "_aop63k1yk",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -2122,8 +2358,9 @@ export const by_pos_and_sku = [
       "order_amount": 3840,
       "diff": 360,
       "diff_perc": 0.1034482759
-    },
-    {
+  },
+  {
+      "id": "_ubjnd3idb",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -2131,8 +2368,9 @@ export const by_pos_and_sku = [
       "order_amount": 3120,
       "diff": 360,
       "diff_perc": 0.1304347826
-    },
-    {
+  },
+  {
+      "id": "_sbp5sexen",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -2140,8 +2378,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": 360,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_du4jf7exo",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -2149,8 +2388,9 @@ export const by_pos_and_sku = [
       "order_amount": 2520,
       "diff": 360,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_ner7hnrbb",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -2158,8 +2398,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 360,
       "diff_perc": 0.1764705882
-    },
-    {
+  },
+  {
+      "id": "_0bbahpzjt",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -2167,8 +2408,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 360,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_24dirve67",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -2176,8 +2418,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 360,
       "diff_perc": 0.3
-    },
-    {
+  },
+  {
+      "id": "_1ri5tskhw",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -2185,8 +2428,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 360,
       "diff_perc": 0.2727272727
-    },
-    {
+  },
+  {
+      "id": "_prce2e6dc",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -2194,8 +2438,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 360,
       "diff_perc": 0.1764705882
-    },
-    {
+  },
+  {
+      "id": "_5v61zg4i2",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -2203,8 +2448,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": 360,
       "diff_perc": 0.25
-    },
-    {
+  },
+  {
+      "id": "_6vlmglqaf",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -2212,8 +2458,9 @@ export const by_pos_and_sku = [
       "order_amount": 3960,
       "diff": 360,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_mu4596xt5",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -2221,8 +2468,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": 290,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_hxpx1vu2t",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -2230,8 +2478,9 @@ export const by_pos_and_sku = [
       "order_amount": 15370,
       "diff": 290,
       "diff_perc": 0.0192307692
-    },
-    {
+  },
+  {
+      "id": "_onp09agfi",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -2239,8 +2488,9 @@ export const by_pos_and_sku = [
       "order_amount": 3770,
       "diff": 290,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_1bpkpjvbv",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -2248,8 +2498,9 @@ export const by_pos_and_sku = [
       "order_amount": 4350,
       "diff": 290,
       "diff_perc": 0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_na1m739ac",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -2257,8 +2508,9 @@ export const by_pos_and_sku = [
       "order_amount": 3770,
       "diff": 290,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_3pm7urk6p",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -2266,8 +2518,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": 290,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_6x8v8pnv2",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -2275,8 +2528,9 @@ export const by_pos_and_sku = [
       "order_amount": 2610,
       "diff": 290,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_za48xj3nb",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -2284,8 +2538,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": 290,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_8kpgfeanz",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -2293,8 +2548,9 @@ export const by_pos_and_sku = [
       "order_amount": 3080,
       "diff": 280,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_122aj42cw",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -2302,8 +2558,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 280,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_z6d289ire",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -2311,8 +2568,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 280,
       "diff_perc": 0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_n4b9328fy",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -2320,8 +2578,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": 260,
       "diff_perc": 0.0322580645
-    },
-    {
+  },
+  {
+      "id": "_9ufep2moj",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -2329,8 +2588,9 @@ export const by_pos_and_sku = [
       "order_amount": 2640,
       "diff": 240,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_psf7614qa",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -2338,8 +2598,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 240,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_8fekuqnna",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -2347,8 +2608,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 240,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_7n9d3nirk",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -2356,8 +2618,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": 240,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_b9a4vuomc",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -2365,8 +2628,9 @@ export const by_pos_and_sku = [
       "order_amount": 2040,
       "diff": 240,
       "diff_perc": 0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_uyv2dep3x",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -2374,8 +2638,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": 240,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_z0t41unqw",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -2383,8 +2648,9 @@ export const by_pos_and_sku = [
       "order_amount": 2040,
       "diff": 240,
       "diff_perc": 0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_k714nltgm",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -2392,8 +2658,9 @@ export const by_pos_and_sku = [
       "order_amount": 3120,
       "diff": 240,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_06r6yunkc",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -2401,8 +2668,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 240,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_oim8dewj1",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -2410,8 +2678,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 240,
       "diff_perc": 0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_vskviwle5",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -2419,8 +2688,9 @@ export const by_pos_and_sku = [
       "order_amount": 2040,
       "diff": 240,
       "diff_perc": 0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_58so91lln",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -2428,8 +2698,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 240,
       "diff_perc": 0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_oxwosfmkk",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -2437,8 +2708,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 240,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_355q3y032",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -2446,8 +2718,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": 240,
       "diff_perc": 0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_8oljusccz",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -2455,8 +2728,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 240,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_7wfrdwlo5",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -2464,8 +2738,9 @@ export const by_pos_and_sku = [
       "order_amount": 3360,
       "diff": 210,
       "diff_perc": 0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_wwb3is8xj",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -2473,8 +2748,9 @@ export const by_pos_and_sku = [
       "order_amount": 2800,
       "diff": 140,
       "diff_perc": 0.0526315789
-    },
-    {
+  },
+  {
+      "id": "_mm50qlvgk",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -2482,8 +2758,9 @@ export const by_pos_and_sku = [
       "order_amount": 5880,
       "diff": 140,
       "diff_perc": 0.0243902439
-    },
-    {
+  },
+  {
+      "id": "_xz9s8gzq6",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -2491,8 +2768,9 @@ export const by_pos_and_sku = [
       "order_amount": 6860,
       "diff": 140,
       "diff_perc": 0.0208333333
-    },
-    {
+  },
+  {
+      "id": "_1wdi7v88y",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -2500,8 +2778,9 @@ export const by_pos_and_sku = [
       "order_amount": 2240,
       "diff": 140,
       "diff_perc": 0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_mby6164zb",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -2509,8 +2788,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 140,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_yijz5oc3w",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -2518,8 +2798,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 140,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_ome0m3xgi",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -2527,8 +2808,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": 140,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_vngfx7ttp",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -2536,8 +2818,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 140,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_bi3fipk3s",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -2545,8 +2828,9 @@ export const by_pos_and_sku = [
       "order_amount": 2940,
       "diff": 140,
       "diff_perc": 0.05
-    },
-    {
+  },
+  {
+      "id": "_ivtejsyk7",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -2554,8 +2838,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 140,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_j6g6boa4j",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -2563,8 +2848,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": 140,
       "diff_perc": 0.125
-    },
-    {
+  },
+  {
+      "id": "_9zjqf2xw4",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -2572,8 +2858,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 140,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_98c6hzwvj",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -2581,8 +2868,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": 140,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_3dgt5y68d",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -2590,8 +2878,9 @@ export const by_pos_and_sku = [
       "order_amount": 1820,
       "diff": 140,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_rpcn66j4w",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -2599,8 +2888,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": 140,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_48hnuyhsc",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -2608,8 +2898,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": 140,
       "diff_perc": 0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_v7pbr64yt",
       "customer_sort_by_customer_id_asc": "186|Aman 36|Aman|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "186|Aman 36|Aman|Grocery Self Service",
@@ -2617,8 +2908,9 @@ export const by_pos_and_sku = [
       "order_amount": 520,
       "diff": 130,
       "diff_perc": 0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_6ui541298",
       "customer_sort_by_customer_id_asc": "27|Maxi 27|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "27|Maxi 27|Maxi|Grocery Self Service",
@@ -2626,8 +2918,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": 120,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_hoeeyhc61",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -2635,8 +2928,9 @@ export const by_pos_and_sku = [
       "order_amount": 7560,
       "diff": 120,
       "diff_perc": 0.0161290323
-    },
-    {
+  },
+  {
+      "id": "_82znftzoo",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -2644,8 +2938,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": 120,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_mpxzshvw5",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -2653,8 +2948,9 @@ export const by_pos_and_sku = [
       "order_amount": 2040,
       "diff": 120,
       "diff_perc": 0.0625
-    },
-    {
+  },
+  {
+      "id": "_4jdicric3",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -2662,8 +2958,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 120,
       "diff_perc": 0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_2fz7pod7o",
       "customer_sort_by_customer_id_asc": "173|Aman 23|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "173|Aman 23|Aman|Grocery Self Service",
@@ -2671,8 +2968,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": 120,
       "diff_perc": 0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_rb9r2c422",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -2680,8 +2978,9 @@ export const by_pos_and_sku = [
       "order_amount": 2760,
       "diff": 120,
       "diff_perc": 0.0454545455
-    },
-    {
+  },
+  {
+      "id": "_4xkt5pk9k",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -2689,8 +2988,9 @@ export const by_pos_and_sku = [
       "order_amount": 4320,
       "diff": 120,
       "diff_perc": 0.0285714286
-    },
-    {
+  },
+  {
+      "id": "_y0tek9707",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -2698,8 +2998,9 @@ export const by_pos_and_sku = [
       "order_amount": 4080,
       "diff": 120,
       "diff_perc": 0.0303030303
-    },
-    {
+  },
+  {
+      "id": "_ndvs3fatg",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -2707,8 +3008,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 120,
       "diff_perc": 0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_mrjexpi31",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -2716,8 +3018,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 120,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_euk2gp8wc",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -2725,8 +3028,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 120,
       "diff_perc": 0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_2yzxrwuw5",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -2734,8 +3038,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": 120,
       "diff_perc": 0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_bew6unbjy",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -2743,8 +3048,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": 120,
       "diff_perc": 0.1
-    },
-    {
+  },
+  {
+      "id": "_k09psoxwn",
       "customer_sort_by_customer_id_asc": "388|STR Giga i sinovi|STR Giga i sinovi|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "388|STR Giga i sinovi|STR Giga i sinovi|Grocery Self Service",
@@ -2752,8 +3058,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 120,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_mjwd9wr5o",
       "customer_sort_by_customer_id_asc": "391|STR Vulkan|STR Vulkan|General Trade|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "391|STR Vulkan|STR Vulkan|Grocery Counter",
@@ -2761,8 +3068,9 @@ export const by_pos_and_sku = [
       "order_amount": 720,
       "diff": 120,
       "diff_perc": 0.2
-    },
-    {
+  },
+  {
+      "id": "_tq31dcihb",
       "customer_sort_by_customer_id_asc": "395|STR Diskont Pica|STR Diskont Pica|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "395|STR Diskont Pica|STR Diskont Pica|Grocery Counter",
@@ -2770,8 +3078,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 120,
       "diff_perc": 0.5
-    },
-    {
+  },
+  {
+      "id": "_wh9e247g0",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -2779,8 +3088,9 @@ export const by_pos_and_sku = [
       "order_amount": 7800,
       "diff": 120,
       "diff_perc": 0.015625
-    },
-    {
+  },
+  {
+      "id": "_qbdaphnx1",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -2788,8 +3098,9 @@ export const by_pos_and_sku = [
       "order_amount": 5400,
       "diff": 120,
       "diff_perc": 0.0227272727
-    },
-    {
+  },
+  {
+      "id": "_lp0fzf18m",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -2797,8 +3108,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": 120,
       "diff_perc": 0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_n47fri356",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -2806,8 +3118,9 @@ export const by_pos_and_sku = [
       "order_amount": 6000,
       "diff": 120,
       "diff_perc": 0.0204081633
-    },
-    {
+  },
+  {
+      "id": "_0k13izkba",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -2815,8 +3128,9 @@ export const by_pos_and_sku = [
       "order_amount": 16800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_puwqqzo78",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -2824,8 +3138,9 @@ export const by_pos_and_sku = [
       "order_amount": 96800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_uhq1231n8",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -2833,8 +3148,9 @@ export const by_pos_and_sku = [
       "order_amount": 4550,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ipnr39dvw",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -2842,8 +3158,9 @@ export const by_pos_and_sku = [
       "order_amount": 3600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ix5af8daj",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -2851,8 +3168,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_pvaxur6me",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -2860,8 +3178,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_tjvmn2ute",
       "customer_sort_by_customer_id_asc": "27|Maxi 27|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "27|Maxi 27|Maxi|Grocery Self Service",
@@ -2869,8 +3188,9 @@ export const by_pos_and_sku = [
       "order_amount": 23200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_owvyg7z3y",
       "customer_sort_by_customer_id_asc": "27|Maxi 27|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "27|Maxi 27|Maxi|Grocery Self Service",
@@ -2878,8 +3198,9 @@ export const by_pos_and_sku = [
       "order_amount": 3150,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_74as3qt2p",
       "customer_sort_by_customer_id_asc": "27|Maxi 27|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "27|Maxi 27|Maxi|Grocery Self Service",
@@ -2887,8 +3208,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_alhmzp47v",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -2896,8 +3218,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_84xetxkgv",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -2905,8 +3228,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_2gs71yfee",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -2914,8 +3238,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_mql525ovk",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -2923,8 +3248,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_eu247veds",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -2932,8 +3258,9 @@ export const by_pos_and_sku = [
       "order_amount": 3770,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_6aqdssti2",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -2941,8 +3268,9 @@ export const by_pos_and_sku = [
       "order_amount": 6630,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_k0kp8sktb",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -2950,8 +3278,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_2iayc95gk",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -2959,8 +3288,9 @@ export const by_pos_and_sku = [
       "order_amount": 2040,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_vhu9m8due",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -2968,8 +3298,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_cfhbm2wjz",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -2977,8 +3308,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_37k81794a",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -2986,8 +3318,9 @@ export const by_pos_and_sku = [
       "order_amount": 19800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ryoh767j5",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -2995,8 +3328,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ke96qd9o4",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -3004,8 +3338,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_5243ahpob",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -3013,8 +3348,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_tmuhprnz8",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -3022,8 +3358,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ofeuc1kbk",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -3031,8 +3368,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_2srtzkiwq",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -3040,8 +3378,9 @@ export const by_pos_and_sku = [
       "order_amount": 24200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_760z9x65r",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -3049,8 +3388,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_zd6nmd0t9",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -3058,8 +3398,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_vbetsddh5",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -3067,8 +3408,9 @@ export const by_pos_and_sku = [
       "order_amount": 30800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_22v52dga4",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -3076,8 +3418,9 @@ export const by_pos_and_sku = [
       "order_amount": 28600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_siv1tc5h0",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -3085,8 +3428,9 @@ export const by_pos_and_sku = [
       "order_amount": 44160,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_43zthxjup",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -3094,8 +3438,9 @@ export const by_pos_and_sku = [
       "order_amount": 83600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_aux6jiv8p",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -3103,8 +3448,9 @@ export const by_pos_and_sku = [
       "order_amount": 30960,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_kwftm647z",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -3112,8 +3458,9 @@ export const by_pos_and_sku = [
       "order_amount": 22500,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_xq5yf7lup",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -3121,8 +3468,9 @@ export const by_pos_and_sku = [
       "order_amount": 4550,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ksen5daeq",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -3130,8 +3478,9 @@ export const by_pos_and_sku = [
       "order_amount": 20300,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_w5iswhlpz",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -3139,8 +3488,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_zyqp2f7sl",
       "customer_sort_by_customer_id_asc": "105|Maxi 105|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "105|Maxi 105|Maxi|Grocery Self Service",
@@ -3148,8 +3498,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_uj0vts77x",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -3157,8 +3508,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_8wablbgly",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -3166,8 +3518,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ud72zu6zu",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -3175,8 +3528,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_5o07ya7hs",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -3184,8 +3538,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_096vu0o2t",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -3193,8 +3548,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_bih5y2myq",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -3202,8 +3558,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_f827d3gqw",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -3211,8 +3568,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_tho4ghdb2",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -3220,8 +3578,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_gjmtt83gi",
       "customer_sort_by_customer_id_asc": "163|Aman 13|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "163|Aman 13|Aman|Grocery Self Service",
@@ -3229,8 +3588,9 @@ export const by_pos_and_sku = [
       "order_amount": 960,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_vrbz3gsia",
       "customer_sort_by_customer_id_asc": "169|Aman 19|Aman|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "169|Aman 19|Aman|Grocery Self Service",
@@ -3238,8 +3598,9 @@ export const by_pos_and_sku = [
       "order_amount": 1350,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_joh1mc1rz",
       "customer_sort_by_customer_id_asc": "169|Aman 19|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "169|Aman 19|Aman|Grocery Self Service",
@@ -3247,8 +3608,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_i8hzlwawp",
       "customer_sort_by_customer_id_asc": "173|Aman 23|Aman|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "173|Aman 23|Aman|Grocery Self Service",
@@ -3256,8 +3618,9 @@ export const by_pos_and_sku = [
       "order_amount": 720,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_sp1vsoozh",
       "customer_sort_by_customer_id_asc": "186|Aman 36|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "186|Aman 36|Aman|Grocery Self Service",
@@ -3265,8 +3628,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_5uia6ly7t",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -3274,8 +3638,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_sq7rz4e2r",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -3283,8 +3648,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_raxq0n14k",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -3292,8 +3658,9 @@ export const by_pos_and_sku = [
       "order_amount": 4060,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_0b9thjls4",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -3301,8 +3668,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_0mrl8cbac",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -3310,8 +3678,9 @@ export const by_pos_and_sku = [
       "order_amount": 2520,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_p82xpkadx",
       "customer_sort_by_customer_id_asc": "197|Aman 47|Aman|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "197|Aman 47|Aman|Grocery Self Service",
@@ -3319,8 +3688,9 @@ export const by_pos_and_sku = [
       "order_amount": 390,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_n49w6ajqj",
       "customer_sort_by_customer_id_asc": "197|Aman 47|Aman|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "197|Aman 47|Aman|Grocery Self Service",
@@ -3328,8 +3698,9 @@ export const by_pos_and_sku = [
       "order_amount": 630,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ccbepyyrq",
       "customer_sort_by_customer_id_asc": "199|Aman 49|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "199|Aman 49|Aman|Grocery Self Service",
@@ -3337,8 +3708,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_h3rcs4tlt",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -3346,8 +3718,9 @@ export const by_pos_and_sku = [
       "order_amount": 2380,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_oprqpcp2n",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -3355,8 +3728,9 @@ export const by_pos_and_sku = [
       "order_amount": 14400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_fro6if6qs",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -3364,8 +3738,9 @@ export const by_pos_and_sku = [
       "order_amount": 13650,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_zd263hlty",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -3373,8 +3748,9 @@ export const by_pos_and_sku = [
       "order_amount": 2520,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_uf5ga1d7c",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -3382,8 +3758,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_4ukdkho18",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -3391,8 +3768,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_kuwpb6dcp",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -3400,8 +3778,9 @@ export const by_pos_and_sku = [
       "order_amount": 10080,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_hqbom3639",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -3409,8 +3788,9 @@ export const by_pos_and_sku = [
       "order_amount": 5220,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_u6xnuni1j",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -3418,8 +3798,9 @@ export const by_pos_and_sku = [
       "order_amount": 18720,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_lsc5xf26o",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -3427,8 +3808,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_b1lz00oc6",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -3436,8 +3818,9 @@ export const by_pos_and_sku = [
       "order_amount": 24200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_iyb6a0qok",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -3445,8 +3828,9 @@ export const by_pos_and_sku = [
       "order_amount": 13200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_xb5z60n6z",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -3454,8 +3838,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_pax8oxxge",
       "customer_sort_by_customer_id_asc": "257|Trafikoni 22|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "257|Trafikoni 22|Trafikoni|Grocery Counter",
@@ -3463,8 +3848,9 @@ export const by_pos_and_sku = [
       "order_amount": 720,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_2ucwh8iep",
       "customer_sort_by_customer_id_asc": "257|Trafikoni 22|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "257|Trafikoni 22|Trafikoni|Grocery Counter",
@@ -3472,8 +3858,9 @@ export const by_pos_and_sku = [
       "order_amount": 2880,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_srz1lg3ux",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -3481,8 +3868,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_t4h507afl",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -3490,8 +3878,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_jfng7h9ng",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -3499,8 +3888,9 @@ export const by_pos_and_sku = [
       "order_amount": 9360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_nkws94yy7",
       "customer_sort_by_customer_id_asc": "270|Trafikoni 35|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "270|Trafikoni 35|Trafikoni|Grocery Counter",
@@ -3508,8 +3898,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_7qwybhq47",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -3517,8 +3908,9 @@ export const by_pos_and_sku = [
       "order_amount": 19800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_06u6icqi8",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -3526,8 +3918,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_fsdn9qlg9",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -3535,8 +3928,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_io5fakseo",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -3544,8 +3938,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_dqdsdbrwx",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -3553,8 +3948,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_5dc4rbdue",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -3562,8 +3958,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ksa95l056",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -3571,8 +3968,9 @@ export const by_pos_and_sku = [
       "order_amount": 9120,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_vrwiqp773",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -3580,8 +3978,9 @@ export const by_pos_and_sku = [
       "order_amount": 2040,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_4m37n48c4",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -3589,8 +3988,9 @@ export const by_pos_and_sku = [
       "order_amount": 8960,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_gm3jeeu1m",
       "customer_sort_by_customer_id_asc": "286|Banat Tade 16|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "286|Banat Tade 16|Banat Tade|Grocery Self Service",
@@ -3598,8 +3998,9 @@ export const by_pos_and_sku = [
       "order_amount": 420,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_wecam1pyg",
       "customer_sort_by_customer_id_asc": "286|Banat Tade 16|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "286|Banat Tade 16|Banat Tade|Grocery Self Service",
@@ -3607,8 +4008,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_8akyza1qz",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -3616,8 +4018,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ga8ov21ml",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -3625,8 +4028,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_aqeitk368",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -3634,8 +4038,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ggn0xpko8",
       "customer_sort_by_customer_id_asc": "302|Jug Trgovina 12|Jug Trgovina|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "302|Jug Trgovina 12|Jug Trgovina|Grocery Self Service",
@@ -3643,8 +4048,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_okkbpmmzt",
       "customer_sort_by_customer_id_asc": "302|Jug Trgovina 12|Jug Trgovina|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "302|Jug Trgovina 12|Jug Trgovina|Grocery Self Service",
@@ -3652,8 +4058,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_stpxom00k",
       "customer_sort_by_customer_id_asc": "303|Jug Trgovina 13|Jug Trgovina|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "303|Jug Trgovina 13|Jug Trgovina|Grocery Self Service",
@@ -3661,8 +4068,9 @@ export const by_pos_and_sku = [
       "order_amount": 1450,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_17v478vyo",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -3670,8 +4078,9 @@ export const by_pos_and_sku = [
       "order_amount": 7150,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_svxoidpcj",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -3679,8 +4088,9 @@ export const by_pos_and_sku = [
       "order_amount": 29000,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_iccjb09xe",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -3688,8 +4098,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_78wwvsib1",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -3697,8 +4108,9 @@ export const by_pos_and_sku = [
       "order_amount": 8960,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_qnp814o6o",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -3706,8 +4118,9 @@ export const by_pos_and_sku = [
       "order_amount": 4950,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ff9mttitd",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -3715,8 +4128,9 @@ export const by_pos_and_sku = [
       "order_amount": 4060,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_cw984ir6w",
       "customer_sort_by_customer_id_asc": "327|Praznik Trgovina 3|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "327|Praznik Trgovina 3|Praznik Trgovina|Grocery Self Service",
@@ -3724,8 +4138,9 @@ export const by_pos_and_sku = [
       "order_amount": 8800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_q1ahrzn2m",
       "customer_sort_by_customer_id_asc": "327|Praznik Trgovina 3|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "327|Praznik Trgovina 3|Praznik Trgovina|Grocery Self Service",
@@ -3733,8 +4148,9 @@ export const by_pos_and_sku = [
       "order_amount": 560,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ds4hav98k",
       "customer_sort_by_customer_id_asc": "327|Praznik Trgovina 3|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "327|Praznik Trgovina 3|Praznik Trgovina|Grocery Self Service",
@@ -3742,8 +4158,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_k4xjpzyy9",
       "customer_sort_by_customer_id_asc": "327|Praznik Trgovina 3|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "327|Praznik Trgovina 3|Praznik Trgovina|Grocery Self Service",
@@ -3751,8 +4168,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_rj7bwlqx8",
       "customer_sort_by_customer_id_asc": "328|Praznik Trgovina 4|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "328|Praznik Trgovina 4|Praznik Trgovina|Grocery Self Service",
@@ -3760,8 +4178,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_hpnlbf4y5",
       "customer_sort_by_customer_id_asc": "328|Praznik Trgovina 4|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "328|Praznik Trgovina 4|Praznik Trgovina|Grocery Self Service",
@@ -3769,8 +4188,9 @@ export const by_pos_and_sku = [
       "order_amount": 2880,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_9qd4j83ga",
       "customer_sort_by_customer_id_asc": "328|Praznik Trgovina 4|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "328|Praznik Trgovina 4|Praznik Trgovina|Grocery Self Service",
@@ -3778,8 +4198,9 @@ export const by_pos_and_sku = [
       "order_amount": 3200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_akqwftssg",
       "customer_sort_by_customer_id_asc": "352|STR Vuk|STR Vuk|General Trade|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "352|STR Vuk|STR Vuk|Grocery Self Service",
@@ -3787,8 +4208,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_x48zxanw5",
       "customer_sort_by_customer_id_asc": "352|STR Vuk|STR Vuk|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "352|STR Vuk|STR Vuk|Grocery Self Service",
@@ -3796,8 +4218,9 @@ export const by_pos_and_sku = [
       "order_amount": 3150,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_usq2clo2c",
       "customer_sort_by_customer_id_asc": "352|STR Vuk|STR Vuk|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "352|STR Vuk|STR Vuk|Grocery Self Service",
@@ -3805,8 +4228,9 @@ export const by_pos_and_sku = [
       "order_amount": 1200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_g7aa23372",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -3814,8 +4238,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_82yx8dns4",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -3823,8 +4248,9 @@ export const by_pos_and_sku = [
       "order_amount": 8160,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_5eojuuc9i",
       "customer_sort_by_customer_id_asc": "362|STR Sretenje|STR Sretenje|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "362|STR Sretenje|STR Sretenje|Grocery Counter",
@@ -3832,8 +4258,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_lcooilc7d",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -3841,8 +4268,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_0d7l1teq0",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -3850,8 +4278,9 @@ export const by_pos_and_sku = [
       "order_amount": 26100,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ow2z9abww",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -3859,8 +4288,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_bipvzesrz",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -3868,8 +4298,9 @@ export const by_pos_and_sku = [
       "order_amount": 23200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_w11u901h2",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -3877,8 +4308,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_h2jbuez0m",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -3886,8 +4318,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_3ki24y4sb",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -3895,8 +4328,9 @@ export const by_pos_and_sku = [
       "order_amount": 4080,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_hj3mbipit",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -3904,8 +4338,9 @@ export const by_pos_and_sku = [
       "order_amount": 22000,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_c04dokgj3",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -3913,8 +4348,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_pei8he3sg",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -3922,8 +4358,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_swlbp4rs8",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -3931,8 +4368,9 @@ export const by_pos_and_sku = [
       "order_amount": 6630,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_7dtj0mvlq",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -3940,8 +4378,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_2c1yg3hho",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -3949,8 +4388,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_wuvqt96sm",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -3958,8 +4398,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_69qabmt2x",
       "customer_sort_by_customer_id_asc": "391|STR Vulkan|STR Vulkan|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "391|STR Vulkan|STR Vulkan|Grocery Counter",
@@ -3967,8 +4408,9 @@ export const by_pos_and_sku = [
       "order_amount": 3360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_2e4so38u9",
       "customer_sort_by_customer_id_asc": "391|STR Vulkan|STR Vulkan|General Trade|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "391|STR Vulkan|STR Vulkan|Grocery Counter",
@@ -3976,8 +4418,9 @@ export const by_pos_and_sku = [
       "order_amount": 3840,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_z7hyhtp08",
       "customer_sort_by_customer_id_asc": "395|STR Diskont Pica|STR Diskont Pica|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "395|STR Diskont Pica|STR Diskont Pica|Grocery Counter",
@@ -3985,8 +4428,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_y2gvs88zn",
       "customer_sort_by_customer_id_asc": "399|STR Valentina|STR Valentina|General Trade|Grocery Counter",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "399|STR Valentina|STR Valentina|Grocery Counter",
@@ -3994,8 +4438,9 @@ export const by_pos_and_sku = [
       "order_amount": 630,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_8ci2hpylm",
       "customer_sort_by_customer_id_asc": "400|STR Galeb|STR Galeb|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "400|STR Galeb|STR Galeb|Grocery Counter",
@@ -4003,8 +4448,9 @@ export const by_pos_and_sku = [
       "order_amount": 480,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_cx3559740",
       "customer_sort_by_customer_id_asc": "400|STR Galeb|STR Galeb|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "400|STR Galeb|STR Galeb|Grocery Counter",
@@ -4012,8 +4458,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_jsw40jy8y",
       "customer_sort_by_customer_id_asc": "400|STR Galeb|STR Galeb|General Trade|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "400|STR Galeb|STR Galeb|Grocery Counter",
@@ -4021,8 +4468,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_gktvl2ot5",
       "customer_sort_by_customer_id_asc": "400|STR Galeb|STR Galeb|General Trade|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "400|STR Galeb|STR Galeb|Grocery Counter",
@@ -4030,8 +4478,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_asdd19bk4",
       "customer_sort_by_customer_id_asc": "401|STR Mocni|STR Mocni|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "401|STR Mocni|STR Mocni|Grocery Self Service",
@@ -4039,8 +4488,9 @@ export const by_pos_and_sku = [
       "order_amount": 360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_wciue3cid",
       "customer_sort_by_customer_id_asc": "401|STR Mocni|STR Mocni|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "401|STR Mocni|STR Mocni|Grocery Self Service",
@@ -4048,8 +4498,9 @@ export const by_pos_and_sku = [
       "order_amount": 960,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_xjdeaxv43",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -4057,8 +4508,9 @@ export const by_pos_and_sku = [
       "order_amount": 7840,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ozxw7qvx7",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -4066,8 +4518,9 @@ export const by_pos_and_sku = [
       "order_amount": 1200,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_w3gci8i8y",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -4075,8 +4528,9 @@ export const by_pos_and_sku = [
       "order_amount": 7920,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_qg2lnjbug",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -4084,8 +4538,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_6p6lmysfz",
       "customer_sort_by_customer_id_asc": "409|Camac|Camac|General Trade|Grocery Counter",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "409|Camac|Camac|Grocery Counter",
@@ -4093,8 +4548,9 @@ export const by_pos_and_sku = [
       "order_amount": 650,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_v248g2frg",
       "customer_sort_by_customer_id_asc": "412|Svetlo|Svetlo|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "412|Svetlo|Svetlo|Grocery Self Service",
@@ -4102,8 +4558,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_kiuc2b9ot",
       "customer_sort_by_customer_id_asc": "412|Svetlo|Svetlo|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "412|Svetlo|Svetlo|Grocery Self Service",
@@ -4111,8 +4568,9 @@ export const by_pos_and_sku = [
       "order_amount": 720,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_6r5jx8kbd",
       "customer_sort_by_customer_id_asc": "412|Svetlo|Svetlo|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "412|Svetlo|Svetlo|Grocery Self Service",
@@ -4120,8 +4578,9 @@ export const by_pos_and_sku = [
       "order_amount": 2800,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_l68zn8dmd",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -4129,8 +4588,9 @@ export const by_pos_and_sku = [
       "order_amount": 10240,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_o8flo33v4",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -4138,8 +4598,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_anb96r54i",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -4147,8 +4608,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_xewnqcfbw",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -4156,8 +4618,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ut434c9fc",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -4165,8 +4628,9 @@ export const by_pos_and_sku = [
       "order_amount": 4590,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_tb1gyou67",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -4174,8 +4638,9 @@ export const by_pos_and_sku = [
       "order_amount": 5330,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_k7z2ejp1v",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -4183,8 +4648,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_m4s88fh6a",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -4192,8 +4658,9 @@ export const by_pos_and_sku = [
       "order_amount": 26400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_upu8e6zww",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -4201,8 +4668,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_l6omef5zz",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -4210,8 +4678,9 @@ export const by_pos_and_sku = [
       "order_amount": 9520,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_43hpggbw1",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -4219,8 +4688,9 @@ export const by_pos_and_sku = [
       "order_amount": 5610,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_iq4iedu9i",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -4228,8 +4698,9 @@ export const by_pos_and_sku = [
       "order_amount": 3600,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_7z20bmuii",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -4237,8 +4708,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_xpdg34g3e",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -4246,8 +4718,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_qnalie6od",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -4255,8 +4728,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_vyf8cfaab",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -4264,8 +4738,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_29tx2ql3p",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -4273,8 +4748,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_ozxupxvx1",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -4282,8 +4758,9 @@ export const by_pos_and_sku = [
       "order_amount": 2900,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_fn4yps8sb",
       "customer_sort_by_customer_id_asc": "440|Market Kadinjaca|Market Kadinjaca|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "440|Market Kadinjaca|Market Kadinjaca|Grocery Self Service",
@@ -4291,8 +4768,9 @@ export const by_pos_and_sku = [
       "order_amount": 5100,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_yy0ppolig",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -4300,8 +4778,9 @@ export const by_pos_and_sku = [
       "order_amount": 17550,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_6dih14ibb",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -4309,8 +4788,9 @@ export const by_pos_and_sku = [
       "order_amount": 5040,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_kuvofm3di",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -4318,8 +4798,9 @@ export const by_pos_and_sku = [
       "order_amount": 31360,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_trpl1757v",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -4327,8 +4808,9 @@ export const by_pos_and_sku = [
       "order_amount": 7280,
       "diff": 0,
       "diff_perc": 0
-    },
-    {
+  },
+  {
+      "id": "_8fqyw8uzi",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -4336,8 +4818,9 @@ export const by_pos_and_sku = [
       "order_amount": 2760,
       "diff": -120,
       "diff_perc": -0.0416666667
-    },
-    {
+  },
+  {
+      "id": "_hnljsf7xu",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -4345,8 +4828,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -120,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_ilaevco1u",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -4354,8 +4838,9 @@ export const by_pos_and_sku = [
       "order_amount": 5520,
       "diff": -120,
       "diff_perc": -0.0212765957
-    },
-    {
+  },
+  {
+      "id": "_ee0iire10",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -4363,8 +4848,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": -120,
       "diff_perc": -0.0526315789
-    },
-    {
+  },
+  {
+      "id": "_b4tdtii2z",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -4372,8 +4858,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -120,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_bsm4rmf5r",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -4381,8 +4868,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -120,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_tyx5nau7b",
       "customer_sort_by_customer_id_asc": "163|Aman 13|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "163|Aman 13|Aman|Grocery Self Service",
@@ -4390,8 +4878,9 @@ export const by_pos_and_sku = [
       "order_amount": 240,
       "diff": -120,
       "diff_perc": -0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_m33y983dq",
       "customer_sort_by_customer_id_asc": "173|Aman 23|Aman|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "173|Aman 23|Aman|Grocery Self Service",
@@ -4399,8 +4888,9 @@ export const by_pos_and_sku = [
       "order_amount": 720,
       "diff": -120,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_cpi4rdhu7",
       "customer_sort_by_customer_id_asc": "199|Aman 49|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "199|Aman 49|Aman|Grocery Self Service",
@@ -4408,8 +4898,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": -120,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_g34ovf49i",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -4417,8 +4908,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": -120,
       "diff_perc": -0.0333333333
-    },
-    {
+  },
+  {
+      "id": "_nk14i4q4s",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -4426,8 +4918,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -120,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_n8zebw130",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -4435,8 +4928,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": -120,
       "diff_perc": -0.0476190476
-    },
-    {
+  },
+  {
+      "id": "_03yw04hj7",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -4444,8 +4938,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -120,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_t7whh8bjx",
       "customer_sort_by_customer_id_asc": "286|Banat Tade 16|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "286|Banat Tade 16|Banat Tade|Grocery Self Service",
@@ -4453,8 +4948,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": -120,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_u3ksbcsdj",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -4462,8 +4958,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -120,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_cbdyknjpc",
       "customer_sort_by_customer_id_asc": "303|Jug Trgovina 13|Jug Trgovina|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "303|Jug Trgovina 13|Jug Trgovina|Grocery Self Service",
@@ -4471,8 +4968,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": -120,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_tnytccid1",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -4480,8 +4978,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": -120,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_jqn4runak",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -4489,8 +4988,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -120,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_iarbhyibu",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -4498,8 +4998,9 @@ export const by_pos_and_sku = [
       "order_amount": 1200,
       "diff": -120,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_e265rq91t",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -4507,8 +5008,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -120,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_l4iqd8qkn",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -4516,8 +5018,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": -120,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_ul8cc3trd",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -4525,8 +5028,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -120,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_hdqe3bz2w",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -4534,8 +5038,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": -120,
       "diff_perc": -0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_u11nw0mi3",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -4543,8 +5048,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": -120,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_izqp2r9nl",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -4552,8 +5058,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -120,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_eetx14rhc",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -4561,8 +5068,9 @@ export const by_pos_and_sku = [
       "order_amount": 5590,
       "diff": -130,
       "diff_perc": -0.0227272727
-    },
-    {
+  },
+  {
+      "id": "_v5x1zjj37",
       "customer_sort_by_customer_id_asc": "399|STR Valentina|STR Valentina|General Trade|Grocery Counter",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "399|STR Valentina|STR Valentina|Grocery Counter",
@@ -4570,8 +5078,9 @@ export const by_pos_and_sku = [
       "order_amount": 260,
       "diff": -130,
       "diff_perc": -0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_rbn847rxe",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -4579,8 +5088,9 @@ export const by_pos_and_sku = [
       "order_amount": 2340,
       "diff": -130,
       "diff_perc": -0.0526315789
-    },
-    {
+  },
+  {
+      "id": "_wa6az9yra",
       "customer_sort_by_customer_id_asc": "26|Maxi 26|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "26|Maxi 26|Maxi|Grocery Self Service",
@@ -4588,8 +5098,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": -140,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_z0cy84p8c",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -4597,8 +5108,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": -140,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_mea10roa2",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -4606,8 +5118,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": -140,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_s3kvkw7pt",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -4615,8 +5128,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": -140,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_wak53dvar",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -4624,8 +5138,9 @@ export const by_pos_and_sku = [
       "order_amount": 1820,
       "diff": -140,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_egmk9o0ag",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -4633,8 +5148,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": -140,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_fzzbpu8xq",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -4642,8 +5158,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": -140,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_xpwdsaf7e",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -4651,8 +5168,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": -140,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_spo07cs9g",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -4660,8 +5178,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": -140,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_dg5plsrfs",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -4669,8 +5188,9 @@ export const by_pos_and_sku = [
       "order_amount": 2240,
       "diff": -140,
       "diff_perc": -0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_4p1p8o9gn",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -4678,8 +5198,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": -140,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_ckyoqnysc",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -4687,8 +5208,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": -140,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_50ejz203k",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -4696,8 +5218,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": -140,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_51od8cm21",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -4705,8 +5228,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": -140,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_obf9rmg58",
       "customer_sort_by_customer_id_asc": "286|Banat Tade 16|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "286|Banat Tade 16|Banat Tade|Grocery Self Service",
@@ -4714,8 +5238,9 @@ export const by_pos_and_sku = [
       "order_amount": 420,
       "diff": -140,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_ni21c3rfs",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -4723,8 +5248,9 @@ export const by_pos_and_sku = [
       "order_amount": 980,
       "diff": -140,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_30omag0la",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -4732,8 +5258,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": -140,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_a0mzjp8tp",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -4741,8 +5268,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": -140,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_syyamvqlq",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -4750,8 +5278,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -140,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_2zy2wsled",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -4759,8 +5288,9 @@ export const by_pos_and_sku = [
       "order_amount": 3960,
       "diff": -180,
       "diff_perc": -0.0434782609
-    },
-    {
+  },
+  {
+      "id": "_r5w4mthjv",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -4768,8 +5298,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": -180,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_izl6vwgnj",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -4777,8 +5308,9 @@ export const by_pos_and_sku = [
       "order_amount": 3360,
       "diff": -210,
       "diff_perc": -0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_dh30oisbi",
       "customer_sort_by_customer_id_asc": "409|Camac|Camac|General Trade|Grocery Counter",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "409|Camac|Camac|Grocery Counter",
@@ -4786,8 +5318,9 @@ export const by_pos_and_sku = [
       "order_amount": 840,
       "diff": -210,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_b4kau1603",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -4795,8 +5328,9 @@ export const by_pos_and_sku = [
       "order_amount": 3570,
       "diff": -210,
       "diff_perc": -0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_akc8fb9j9",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -4804,8 +5338,9 @@ export const by_pos_and_sku = [
       "order_amount": 9240,
       "diff": -210,
       "diff_perc": -0.0222222222
-    },
-    {
+  },
+  {
+      "id": "_oab7c50qa",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -4813,8 +5348,9 @@ export const by_pos_and_sku = [
       "order_amount": 11640,
       "diff": -240,
       "diff_perc": -0.0202020202
-    },
-    {
+  },
+  {
+      "id": "_sclna04b7",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -4822,8 +5358,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": -240,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_fj6cz1e1a",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -4831,8 +5368,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": -240,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_7xh3t83mf",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -4840,8 +5378,9 @@ export const by_pos_and_sku = [
       "order_amount": 5640,
       "diff": -240,
       "diff_perc": -0.0408163265
-    },
-    {
+  },
+  {
+      "id": "_apqmo0l1v",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -4849,8 +5388,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -240,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_h1taftaxj",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -4858,8 +5398,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -240,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_gysthgrgz",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -4867,8 +5408,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": -240,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_o8ve1cqbu",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -4876,8 +5418,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": -240,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_zgasu3bhl",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -4885,8 +5428,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": -240,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_3uraa9gsm",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -4894,8 +5438,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": -240,
       "diff_perc": -0.0952380952
-    },
-    {
+  },
+  {
+      "id": "_a5rs71szo",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -4903,8 +5448,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -240,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_lqg6vwzo9",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -4912,8 +5458,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": -240,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_20rjqgz0m",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -4921,8 +5468,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": -240,
       "diff_perc": -0.0952380952
-    },
-    {
+  },
+  {
+      "id": "_7bclgzah3",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -4930,8 +5478,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -240,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_i7smxwbi7",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -4939,8 +5488,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": -240,
       "diff_perc": -0.0952380952
-    },
-    {
+  },
+  {
+      "id": "_0z9mhozl8",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -4948,8 +5498,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -240,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_9yg2wib7f",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -4957,8 +5508,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -240,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_k8zcqhypa",
       "customer_sort_by_customer_id_asc": "391|STR Vulkan|STR Vulkan|General Trade|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "391|STR Vulkan|STR Vulkan|Grocery Counter",
@@ -4966,8 +5518,9 @@ export const by_pos_and_sku = [
       "order_amount": 600,
       "diff": -240,
       "diff_perc": -0.2857142857
-    },
-    {
+  },
+  {
+      "id": "_itlt4vxq4",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -4975,8 +5528,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -240,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_lhn1rlp33",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -4984,8 +5538,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": -240,
       "diff_perc": -0.0952380952
-    },
-    {
+  },
+  {
+      "id": "_2kmf01h0o",
       "customer_sort_by_customer_id_asc": "436|Brdo|Brdo|General Trade|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "436|Brdo|Brdo|Grocery Self Service",
@@ -4993,8 +5548,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": -240,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_6p6gguakw",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -5002,8 +5558,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -240,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_ek0ku8eni",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -5011,8 +5568,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -260,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_3is2kwz8i",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -5020,8 +5578,9 @@ export const by_pos_and_sku = [
       "order_amount": 2100,
       "diff": -280,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_nubzf14d7",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -5029,8 +5588,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": -280,
       "diff_perc": -0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_0jdvvk8zk",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -5038,8 +5598,9 @@ export const by_pos_and_sku = [
       "order_amount": 2380,
       "diff": -280,
       "diff_perc": -0.1052631579
-    },
-    {
+  },
+  {
+      "id": "_3j6znvsaa",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -5047,8 +5608,9 @@ export const by_pos_and_sku = [
       "order_amount": 1820,
       "diff": -280,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_jkt75moho",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -5056,8 +5618,9 @@ export const by_pos_and_sku = [
       "order_amount": 1120,
       "diff": -280,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_ujci7eti6",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -5065,8 +5628,9 @@ export const by_pos_and_sku = [
       "order_amount": 4060,
       "diff": -290,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_atula1a1v",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -5074,8 +5638,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": -290,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_9u6jvqtwt",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -5083,8 +5648,9 @@ export const by_pos_and_sku = [
       "order_amount": 4060,
       "diff": -290,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_2tofndgcd",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -5092,8 +5658,9 @@ export const by_pos_and_sku = [
       "order_amount": 2900,
       "diff": -290,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_oror6j8r2",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -5101,8 +5668,9 @@ export const by_pos_and_sku = [
       "order_amount": 4350,
       "diff": -290,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_3006t9k7d",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -5110,8 +5678,9 @@ export const by_pos_and_sku = [
       "order_amount": 8700,
       "diff": -290,
       "diff_perc": -0.0322580645
-    },
-    {
+  },
+  {
+      "id": "_t578j2u5b",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -5119,8 +5688,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": -290,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_xm1p02gzv",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -5128,8 +5698,9 @@ export const by_pos_and_sku = [
       "order_amount": 4060,
       "diff": -290,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_tvi8aenhy",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -5137,8 +5708,9 @@ export const by_pos_and_sku = [
       "order_amount": 4350,
       "diff": -290,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_w2ixksyc1",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -5146,8 +5718,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": -290,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_bf33klloc",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -5155,8 +5728,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": -290,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_29k7js9z0",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -5164,8 +5738,9 @@ export const by_pos_and_sku = [
       "order_amount": 2320,
       "diff": -290,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_yhwb5mlpw",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -5173,8 +5748,9 @@ export const by_pos_and_sku = [
       "order_amount": 2900,
       "diff": -290,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_97rbcfetn",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -5182,8 +5758,9 @@ export const by_pos_and_sku = [
       "order_amount": 3240,
       "diff": -360,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_j193ak68i",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -5191,8 +5768,9 @@ export const by_pos_and_sku = [
       "order_amount": 7560,
       "diff": -360,
       "diff_perc": -0.0454545455
-    },
-    {
+  },
+  {
+      "id": "_s27zo5vwp",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -5200,8 +5778,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -360,
       "diff_perc": -0.1875
-    },
-    {
+  },
+  {
+      "id": "_xq5aw1tyk",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -5209,8 +5788,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": -360,
       "diff_perc": -0.1578947368
-    },
-    {
+  },
+  {
+      "id": "_tf6c80hri",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -5218,8 +5798,9 @@ export const by_pos_and_sku = [
       "order_amount": 1320,
       "diff": -360,
       "diff_perc": -0.2142857143
-    },
-    {
+  },
+  {
+      "id": "_03my5yrkh",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -5227,8 +5808,9 @@ export const by_pos_and_sku = [
       "order_amount": 1800,
       "diff": -360,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_tfzp7xzi5",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -5236,8 +5818,9 @@ export const by_pos_and_sku = [
       "order_amount": 1200,
       "diff": -360,
       "diff_perc": -0.2307692308
-    },
-    {
+  },
+  {
+      "id": "_ajfdqo3nm",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -5245,8 +5828,9 @@ export const by_pos_and_sku = [
       "order_amount": 1080,
       "diff": -360,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_e6hh6uyt7",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -5254,8 +5838,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -360,
       "diff_perc": -0.1875
-    },
-    {
+  },
+  {
+      "id": "_4y7oicmw1",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -5263,8 +5848,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -360,
       "diff_perc": -0.1764705882
-    },
-    {
+  },
+  {
+      "id": "_zw22dqatp",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -5272,8 +5858,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": -360,
       "diff_perc": -0.04
-    },
-    {
+  },
+  {
+      "id": "_05g2xmwik",
       "customer_sort_by_customer_id_asc": "408|Brod|Brod|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "408|Brod|Brod|Grocery Self Service",
@@ -5281,8 +5868,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -360,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_seu2qxv4w",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "5|Croccante  |Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -5290,8 +5878,9 @@ export const by_pos_and_sku = [
       "order_amount": 2160,
       "diff": -360,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_kh5mzrkq7",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -5299,8 +5888,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": -360,
       "diff_perc": -0.1578947368
-    },
-    {
+  },
+  {
+      "id": "_bvhrahrux",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -5308,8 +5898,9 @@ export const by_pos_and_sku = [
       "order_amount": 12320,
       "diff": -420,
       "diff_perc": -0.032967033
-    },
-    {
+  },
+  {
+      "id": "_7tqutpr5t",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -5317,8 +5908,9 @@ export const by_pos_and_sku = [
       "order_amount": 1400,
       "diff": -420,
       "diff_perc": -0.2307692308
-    },
-    {
+  },
+  {
+      "id": "_9tvw44wh2",
       "customer_sort_by_customer_id_asc": "186|Aman 36|Aman|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "186|Aman 36|Aman|Grocery Self Service",
@@ -5326,8 +5918,9 @@ export const by_pos_and_sku = [
       "order_amount": 420,
       "diff": -420,
       "diff_perc": -0.5
-    },
-    {
+  },
+  {
+      "id": "_powb3p5c0",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -5335,8 +5928,9 @@ export const by_pos_and_sku = [
       "order_amount": 1820,
       "diff": -420,
       "diff_perc": -0.1875
-    },
-    {
+  },
+  {
+      "id": "_v3mofiv8u",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "7|Energia Blu|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -5344,8 +5938,9 @@ export const by_pos_and_sku = [
       "order_amount": 1540,
       "diff": -420,
       "diff_perc": -0.2142857143
-    },
-    {
+  },
+  {
+      "id": "_e0h4euyxf",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -5353,8 +5948,9 @@ export const by_pos_and_sku = [
       "order_amount": 1260,
       "diff": -420,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_8vdsyb8bi",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -5362,8 +5958,9 @@ export const by_pos_and_sku = [
       "order_amount": 6750,
       "diff": -450,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_nfb4hfgw7",
       "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "113|Maxi 113|Maxi|Grocery Self Service",
@@ -5371,8 +5968,9 @@ export const by_pos_and_sku = [
       "order_amount": 5400,
       "diff": -450,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_x258rbxjn",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -5380,8 +5978,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": -450,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_g25vkfd9q",
       "customer_sort_by_customer_id_asc": "257|Trafikoni 22|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "257|Trafikoni 22|Trafikoni|Grocery Counter",
@@ -5389,8 +5988,9 @@ export const by_pos_and_sku = [
       "order_amount": 1350,
       "diff": -450,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_ru93w6wl8",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -5398,8 +5998,9 @@ export const by_pos_and_sku = [
       "order_amount": 3600,
       "diff": -450,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_sw60qk9ts",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -5407,8 +6008,9 @@ export const by_pos_and_sku = [
       "order_amount": 3150,
       "diff": -450,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_i6v7qu61a",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -5416,8 +6018,9 @@ export const by_pos_and_sku = [
       "order_amount": 3150,
       "diff": -450,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_rnpqkkm4z",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -5425,8 +6028,9 @@ export const by_pos_and_sku = [
       "order_amount": 4950,
       "diff": -450,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_kcx53i8tg",
       "customer_sort_by_customer_id_asc": "36|Maxi 36|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "36|Maxi 36|Maxi|Grocery Self Service",
@@ -5434,8 +6038,9 @@ export const by_pos_and_sku = [
       "order_amount": 8160,
       "diff": -480,
       "diff_perc": -0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_pjip2auql",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -5443,8 +6048,9 @@ export const by_pos_and_sku = [
       "order_amount": 1560,
       "diff": -480,
       "diff_perc": -0.2352941176
-    },
-    {
+  },
+  {
+      "id": "_2pblp8t4f",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -5452,8 +6058,9 @@ export const by_pos_and_sku = [
       "order_amount": 8880,
       "diff": -480,
       "diff_perc": -0.0512820513
-    },
-    {
+  },
+  {
+      "id": "_s20qunypq",
       "customer_sort_by_customer_id_asc": "111|Maxi 111|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "111|Maxi 111|Maxi|Grocery Self Service",
@@ -5461,8 +6068,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": -480,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_oxsb76l9p",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -5470,8 +6078,9 @@ export const by_pos_and_sku = [
       "order_amount": 1440,
       "diff": -480,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_wlbgdw2t3",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -5479,8 +6088,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": -480,
       "diff_perc": -0.0588235294
-    },
-    {
+  },
+  {
+      "id": "_s7nyr1a9g",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -5488,8 +6098,9 @@ export const by_pos_and_sku = [
       "order_amount": 4800,
       "diff": -480,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_llfaq696z",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -5497,8 +6108,9 @@ export const by_pos_and_sku = [
       "order_amount": 8160,
       "diff": -480,
       "diff_perc": -0.0555555556
-    },
-    {
+  },
+  {
+      "id": "_k0f189f28",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -5506,8 +6118,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": -480,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_ns1tv28cc",
       "customer_sort_by_customer_id_asc": "270|Trafikoni 35|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "270|Trafikoni 35|Trafikoni|Grocery Counter",
@@ -5515,8 +6128,9 @@ export const by_pos_and_sku = [
       "order_amount": 1920,
       "diff": -480,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_9oypkh3jg",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -5524,8 +6138,9 @@ export const by_pos_and_sku = [
       "order_amount": 10080,
       "diff": -480,
       "diff_perc": -0.0454545455
-    },
-    {
+  },
+  {
+      "id": "_j9k1vcoec",
       "customer_sort_by_customer_id_asc": "318|Milica Trade 4|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "318|Milica Trade 4|Milica Trade|Grocery Self Service",
@@ -5533,8 +6148,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -480,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_obj6v7y49",
       "customer_sort_by_customer_id_asc": "321|Milica Trade 7|Milica Trade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "321|Milica Trade 7|Milica Trade|Grocery Self Service",
@@ -5542,8 +6158,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -480,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_md4htipa4",
       "customer_sort_by_customer_id_asc": "352|STR Vuk|STR Vuk|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "352|STR Vuk|STR Vuk|Grocery Self Service",
@@ -5551,8 +6168,9 @@ export const by_pos_and_sku = [
       "order_amount": 5280,
       "diff": -480,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_rfev48k7d",
       "customer_sort_by_customer_id_asc": "362|STR Sretenje|STR Sretenje|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "362|STR Sretenje|STR Sretenje|Grocery Counter",
@@ -5560,8 +6178,9 @@ export const by_pos_and_sku = [
       "order_amount": 960,
       "diff": -480,
       "diff_perc": -0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_z2wvrk9nu",
       "customer_sort_by_customer_id_asc": "374|STR Rogaca|STR Rogaca|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "374|STR Rogaca|STR Rogaca|Grocery Self Service",
@@ -5569,8 +6188,9 @@ export const by_pos_and_sku = [
       "order_amount": 5280,
       "diff": -480,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_pwv1w5wq1",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -5578,8 +6198,9 @@ export const by_pos_and_sku = [
       "order_amount": 9120,
       "diff": -480,
       "diff_perc": -0.05
-    },
-    {
+  },
+  {
+      "id": "_vcyr5x1gf",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -5587,8 +6208,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": -510,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_7n031ijxz",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -5596,8 +6218,9 @@ export const by_pos_and_sku = [
       "order_amount": 6630,
       "diff": -510,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_ykwixlh7e",
       "customer_sort_by_customer_id_asc": "288|Banat Tade 18|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "288|Banat Tade 18|Banat Tade|Grocery Self Service",
@@ -5605,8 +6228,9 @@ export const by_pos_and_sku = [
       "order_amount": 4590,
       "diff": -510,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_mhvrwf2pl",
       "customer_sort_by_customer_id_asc": "303|Jug Trgovina 13|Jug Trgovina|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "303|Jug Trgovina 13|Jug Trgovina|Grocery Self Service",
@@ -5614,8 +6238,9 @@ export const by_pos_and_sku = [
       "order_amount": 2550,
       "diff": -510,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_7tjjm1m9c",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -5623,8 +6248,9 @@ export const by_pos_and_sku = [
       "order_amount": 6630,
       "diff": -510,
       "diff_perc": -0.0714285714
-    },
-    {
+  },
+  {
+      "id": "_xc3d2c1kh",
       "customer_sort_by_customer_id_asc": "384|STR Market Zivojin|STR Market Zivojin|General Trade|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "384|STR Market Zivojin|STR Market Zivojin|Grocery Counter",
@@ -5632,8 +6258,9 @@ export const by_pos_and_sku = [
       "order_amount": 5100,
       "diff": -510,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_iyookmp4d",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "5|Croccante  |Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -5641,8 +6268,9 @@ export const by_pos_and_sku = [
       "order_amount": 4860,
       "diff": -540,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_lvahe66hy",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -5650,8 +6278,9 @@ export const by_pos_and_sku = [
       "order_amount": 8400,
       "diff": -560,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_w94uno0ze",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -5659,8 +6288,9 @@ export const by_pos_and_sku = [
       "order_amount": 10640,
       "diff": -560,
       "diff_perc": -0.05
-    },
-    {
+  },
+  {
+      "id": "_coqeg5v4t",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -5668,8 +6298,9 @@ export const by_pos_and_sku = [
       "order_amount": 2240,
       "diff": -560,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_awyf6nrmx",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -5677,8 +6308,9 @@ export const by_pos_and_sku = [
       "order_amount": 7840,
       "diff": -560,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_mmk4lv4do",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -5686,8 +6318,9 @@ export const by_pos_and_sku = [
       "order_amount": 8400,
       "diff": -560,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_r096lwhg2",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -5695,8 +6328,9 @@ export const by_pos_and_sku = [
       "order_amount": 2610,
       "diff": -580,
       "diff_perc": -0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_7q5gg6c9j",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -5704,8 +6338,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": -580,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_xoz72am3d",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -5713,8 +6348,9 @@ export const by_pos_and_sku = [
       "order_amount": 2900,
       "diff": -580,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_06epxqarp",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -5722,8 +6358,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": -580,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_auem71d7p",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -5731,8 +6368,9 @@ export const by_pos_and_sku = [
       "order_amount": 4350,
       "diff": -580,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_5ukv384d5",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -5740,8 +6378,9 @@ export const by_pos_and_sku = [
       "order_amount": 3480,
       "diff": -580,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_tvbbc0jxh",
       "customer_sort_by_customer_id_asc": "414|Mesec|Mesec|General Trade|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "414|Mesec|Mesec|Grocery Self Service",
@@ -5749,8 +6388,9 @@ export const by_pos_and_sku = [
       "order_amount": 3190,
       "diff": -580,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_1l9ho7x0i",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -5758,8 +6398,9 @@ export const by_pos_and_sku = [
       "order_amount": 2400,
       "diff": -600,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_ld6t032x5",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -5767,8 +6408,9 @@ export const by_pos_and_sku = [
       "order_amount": 1680,
       "diff": -600,
       "diff_perc": -0.2631578947
-    },
-    {
+  },
+  {
+      "id": "_gd3lhhv8w",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "17|Bel Desiderio 100g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -5776,8 +6418,9 @@ export const by_pos_and_sku = [
       "order_amount": 2760,
       "diff": -600,
       "diff_perc": -0.1785714286
-    },
-    {
+  },
+  {
+      "id": "_wfltq6fvj",
       "customer_sort_by_customer_id_asc": "267|Trafikoni 32|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "267|Trafikoni 32|Trafikoni|Grocery Counter",
@@ -5785,8 +6428,9 @@ export const by_pos_and_sku = [
       "order_amount": 1200,
       "diff": -600,
       "diff_perc": -0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_452s0t5b3",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -5794,8 +6438,9 @@ export const by_pos_and_sku = [
       "order_amount": 5520,
       "diff": -600,
       "diff_perc": -0.0980392157
-    },
-    {
+  },
+  {
+      "id": "_0me3j37jr",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -5803,8 +6448,9 @@ export const by_pos_and_sku = [
       "order_amount": 6510,
       "diff": -630,
       "diff_perc": -0.0882352941
-    },
-    {
+  },
+  {
+      "id": "_2f5olvcfk",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -5812,8 +6458,9 @@ export const by_pos_and_sku = [
       "order_amount": 16640,
       "diff": -640,
       "diff_perc": -0.037037037
-    },
-    {
+  },
+  {
+      "id": "_ktd7o739u",
       "customer_sort_by_customer_id_asc": "37|Maxi 37|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "37|Maxi 37|Maxi|Grocery Self Service",
@@ -5821,8 +6468,9 @@ export const by_pos_and_sku = [
       "order_amount": 6400,
       "diff": -640,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_6j4z8psor",
       "customer_sort_by_customer_id_asc": "187|Aman 37|Aman|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "187|Aman 37|Aman|Grocery Self Service",
@@ -5830,8 +6478,9 @@ export const by_pos_and_sku = [
       "order_amount": 9600,
       "diff": -640,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_x32uwbtfw",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -5839,8 +6488,9 @@ export const by_pos_and_sku = [
       "order_amount": 16000,
       "diff": -640,
       "diff_perc": -0.0384615385
-    },
-    {
+  },
+  {
+      "id": "_cu0y2wnye",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -5848,8 +6498,9 @@ export const by_pos_and_sku = [
       "order_amount": 11520,
       "diff": -640,
       "diff_perc": -0.0526315789
-    },
-    {
+  },
+  {
+      "id": "_rf2gprp9n",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -5857,8 +6508,9 @@ export const by_pos_and_sku = [
       "order_amount": 6500,
       "diff": -650,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_qaqpwnlp1",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -5866,8 +6518,9 @@ export const by_pos_and_sku = [
       "order_amount": 5850,
       "diff": -650,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_g1avguq0d",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -5875,8 +6528,9 @@ export const by_pos_and_sku = [
       "order_amount": 4200,
       "diff": -700,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_049a6j9pg",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -5884,8 +6538,9 @@ export const by_pos_and_sku = [
       "order_amount": 6020,
       "diff": -700,
       "diff_perc": -0.1041666667
-    },
-    {
+  },
+  {
+      "id": "_2zsgfvxks",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "8|Energia Arancione|Energia|SOLE",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -5893,8 +6548,9 @@ export const by_pos_and_sku = [
       "order_amount": 6020,
       "diff": -700,
       "diff_perc": -0.1041666667
-    },
-    {
+  },
+  {
+      "id": "_akrbn1o3k",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "5|Croccante  |Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -5902,8 +6558,9 @@ export const by_pos_and_sku = [
       "order_amount": 6480,
       "diff": -720,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_92bb7f8kw",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -5911,8 +6568,9 @@ export const by_pos_and_sku = [
       "order_amount": 7320,
       "diff": -720,
       "diff_perc": -0.0895522388
-    },
-    {
+  },
+  {
+      "id": "_svdz2323s",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "6|Croccante Bianco|Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -5920,8 +6578,9 @@ export const by_pos_and_sku = [
       "order_amount": 5040,
       "diff": -720,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_xrji385qp",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "9|Cereali Blu|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -5929,8 +6588,9 @@ export const by_pos_and_sku = [
       "order_amount": 4550,
       "diff": -780,
       "diff_perc": -0.1463414634
-    },
-    {
+  },
+  {
+      "id": "_5o3oyiu2y",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -5938,8 +6598,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -840,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_z4yo9beya",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -5947,8 +6608,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": -900,
       "diff_perc": -0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_p4ygh8zn7",
       "customer_sort_by_customer_id_asc": "31|Maxi 31|Maxi|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "31|Maxi 31|Maxi|Grocery Self Service",
@@ -5956,8 +6618,9 @@ export const by_pos_and_sku = [
       "order_amount": 4500,
       "diff": -900,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_yvhgix65m",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -5965,8 +6628,9 @@ export const by_pos_and_sku = [
       "order_amount": 4050,
       "diff": -900,
       "diff_perc": -0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_mrx29yprh",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -5974,8 +6638,9 @@ export const by_pos_and_sku = [
       "order_amount": 7650,
       "diff": -900,
       "diff_perc": -0.1052631579
-    },
-    {
+  },
+  {
+      "id": "_odqclod0p",
       "customer_sort_by_customer_id_asc": "27|Maxi 27|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "27|Maxi 27|Maxi|Grocery Self Service",
@@ -5983,8 +6648,9 @@ export const by_pos_and_sku = [
       "order_amount": 4320,
       "diff": -960,
       "diff_perc": -0.1818181818
-    },
-    {
+  },
+  {
+      "id": "_a6cwrqm57",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -5992,8 +6658,9 @@ export const by_pos_and_sku = [
       "order_amount": 9600,
       "diff": -960,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_woawuglum",
       "customer_sort_by_customer_id_asc": "155|Aman 5|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "155|Aman 5|Aman|Grocery Self Service",
@@ -6001,8 +6668,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": -960,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_sj4cusppk",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6010,8 +6678,9 @@ export const by_pos_and_sku = [
       "order_amount": 46080,
       "diff": -960,
       "diff_perc": -0.0204081633
-    },
-    {
+  },
+  {
+      "id": "_nc2ov7d8x",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -6019,8 +6688,9 @@ export const by_pos_and_sku = [
       "order_amount": 6240,
       "diff": -960,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_c0lpldl12",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -6028,8 +6698,9 @@ export const by_pos_and_sku = [
       "order_amount": 5100,
       "diff": -1020,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_nhedethib",
       "customer_sort_by_customer_id_asc": "271|Banat Tade 1|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "271|Banat Tade 1|Banat Tade|Grocery Self Service",
@@ -6037,8 +6708,9 @@ export const by_pos_and_sku = [
       "order_amount": 4080,
       "diff": -1020,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_b4zzp7fts",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -6046,8 +6718,9 @@ export const by_pos_and_sku = [
       "order_amount": 5610,
       "diff": -1020,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_m07nw42eo",
       "customer_sort_by_customer_id_asc": "429|Market Divac|Market Divac|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "429|Market Divac|Market Divac|Grocery Self Service",
@@ -6055,8 +6728,9 @@ export const by_pos_and_sku = [
       "order_amount": 7140,
       "diff": -1020,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_ig3jslt52",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "5|Croccante  |Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6064,8 +6738,9 @@ export const by_pos_and_sku = [
       "order_amount": 9000,
       "diff": -1080,
       "diff_perc": -0.1071428571
-    },
-    {
+  },
+  {
+      "id": "_69r717hzc",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "5|Croccante  |Croccante  |ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -6073,8 +6748,9 @@ export const by_pos_and_sku = [
       "order_amount": 4320,
       "diff": -1080,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_3yz3bwenf",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -6082,8 +6758,9 @@ export const by_pos_and_sku = [
       "order_amount": 6160,
       "diff": -1120,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_ucybdqe0r",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -6091,8 +6768,9 @@ export const by_pos_and_sku = [
       "order_amount": 10080,
       "diff": -1120,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_jfp4f3z4y",
       "customer_sort_by_customer_id_asc": "272|Banat Tade 2|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "272|Banat Tade 2|Banat Tade|Grocery Self Service",
@@ -6100,8 +6778,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -1120,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_zdpkcj9qi",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -6109,8 +6788,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -1120,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_7gxw68ba6",
       "customer_sort_by_customer_id_asc": "391|STR Vulkan|STR Vulkan|General Trade|Grocery Counter",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "391|STR Vulkan|STR Vulkan|Grocery Counter",
@@ -6118,8 +6798,9 @@ export const by_pos_and_sku = [
       "order_amount": 2800,
       "diff": -1120,
       "diff_perc": -0.2857142857
-    },
-    {
+  },
+  {
+      "id": "_ot5jg41mb",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -6127,8 +6808,9 @@ export const by_pos_and_sku = [
       "order_amount": 6380,
       "diff": -1160,
       "diff_perc": -0.1538461538
-    },
-    {
+  },
+  {
+      "id": "_kzclj1tfj",
       "customer_sort_by_customer_id_asc": "28|Maxi 28|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "28|Maxi 28|Maxi|Grocery Self Service",
@@ -6136,8 +6818,9 @@ export const by_pos_and_sku = [
       "order_amount": 8960,
       "diff": -1280,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_qjgkjklfm",
       "customer_sort_by_customer_id_asc": "88|Maxi 88|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "88|Maxi 88|Maxi|Grocery Self Service",
@@ -6145,8 +6828,9 @@ export const by_pos_and_sku = [
       "order_amount": 8960,
       "diff": -1280,
       "diff_perc": -0.125
-    },
-    {
+  },
+  {
+      "id": "_j1yu19dsd",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -6154,8 +6838,9 @@ export const by_pos_and_sku = [
       "order_amount": 14080,
       "diff": -1280,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_mianyddjg",
       "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "284|Banat Tade 14|Banat Tade|Grocery Self Service",
@@ -6163,8 +6848,9 @@ export const by_pos_and_sku = [
       "order_amount": 9600,
       "diff": -1280,
       "diff_perc": -0.1176470588
-    },
-    {
+  },
+  {
+      "id": "_5ncf8wi59",
       "customer_sort_by_customer_id_asc": "446|STR San Diego|STR San Diego|General Trade|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "446|STR San Diego|STR San Diego|Grocery Counter",
@@ -6172,8 +6858,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": -1280,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_am3xhq8g4",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -6181,8 +6868,9 @@ export const by_pos_and_sku = [
       "order_amount": 43550,
       "diff": -1300,
       "diff_perc": -0.0289855072
-    },
-    {
+  },
+  {
+      "id": "_u6o5rd6u4",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -6190,8 +6878,9 @@ export const by_pos_and_sku = [
       "order_amount": 7650,
       "diff": -1350,
       "diff_perc": -0.15
-    },
-    {
+  },
+  {
+      "id": "_h0u5zbvzb",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -6199,8 +6888,9 @@ export const by_pos_and_sku = [
       "order_amount": 13680,
       "diff": -1440,
       "diff_perc": -0.0952380952
-    },
-    {
+  },
+  {
+      "id": "_o6yqilzrm",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -6208,8 +6898,9 @@ export const by_pos_and_sku = [
       "order_amount": 9600,
       "diff": -1440,
       "diff_perc": -0.1304347826
-    },
-    {
+  },
+  {
+      "id": "_112f59y2p",
       "customer_sort_by_customer_id_asc": "112|Maxi 112|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "112|Maxi 112|Maxi|Grocery Self Service",
@@ -6217,8 +6908,9 @@ export const by_pos_and_sku = [
       "order_amount": 5760,
       "diff": -1440,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_5uwz7cr0a",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -6226,8 +6918,9 @@ export const by_pos_and_sku = [
       "order_amount": 11520,
       "diff": -1440,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_o4g6jhtnv",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -6235,8 +6928,9 @@ export const by_pos_and_sku = [
       "order_amount": 2280,
       "diff": -1440,
       "diff_perc": -0.3870967742
-    },
-    {
+  },
+  {
+      "id": "_uhjpzka1i",
       "customer_sort_by_customer_id_asc": "222|Gomex 22|Gomex|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "222|Gomex 22|Gomex|Grocery Self Service",
@@ -6244,8 +6938,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -1440,
       "diff_perc": -0.1764705882
-    },
-    {
+  },
+  {
+      "id": "_k9ur0y1bj",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -6253,8 +6948,9 @@ export const by_pos_and_sku = [
       "order_amount": 15360,
       "diff": -1440,
       "diff_perc": -0.0857142857
-    },
-    {
+  },
+  {
+      "id": "_f6nboexob",
       "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "247|Trafikoni 12|Trafikoni|Grocery Counter",
@@ -6262,8 +6958,9 @@ export const by_pos_and_sku = [
       "order_amount": 4320,
       "diff": -1440,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_qdwykham7",
       "customer_sort_by_customer_id_asc": "278|Banat Tade 8|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "278|Banat Tade 8|Banat Tade|Grocery Self Service",
@@ -6271,8 +6968,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -1440,
       "diff_perc": -0.1764705882
-    },
-    {
+  },
+  {
+      "id": "_69e1nn5ia",
       "customer_sort_by_customer_id_asc": "420|Kovac|Kovac|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "420|Kovac|Kovac|Grocery Self Service",
@@ -6280,8 +6978,9 @@ export const by_pos_and_sku = [
       "order_amount": 5280,
       "diff": -1440,
       "diff_perc": -0.2142857143
-    },
-    {
+  },
+  {
+      "id": "_8x07ye1e3",
       "customer_sort_by_customer_id_asc": "86|Maxi 86|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "86|Maxi 86|Maxi|Grocery Self Service",
@@ -6289,8 +6988,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": -1530,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_9w9tuae1j",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -6298,8 +6998,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": -1530,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_gm95wb45j",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "11|Bel Desiderio 100g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6307,8 +7008,9 @@ export const by_pos_and_sku = [
       "order_amount": 7920,
       "diff": -1560,
       "diff_perc": -0.164556962
-    },
-    {
+  },
+  {
+      "id": "_p0uchlndi",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -6316,8 +7018,9 @@ export const by_pos_and_sku = [
       "order_amount": 7840,
       "diff": -1680,
       "diff_perc": -0.1764705882
-    },
-    {
+  },
+  {
+      "id": "_83yvpjn4l",
       "customer_sort_by_customer_id_asc": "274|Banat Tade 4|Banat Tade|Local Chain|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "274|Banat Tade 4|Banat Tade|Grocery Self Service",
@@ -6325,8 +7028,9 @@ export const by_pos_and_sku = [
       "order_amount": 11200,
       "diff": -1680,
       "diff_perc": -0.1304347826
-    },
-    {
+  },
+  {
+      "id": "_svia4pmzd",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -6334,8 +7038,9 @@ export const by_pos_and_sku = [
       "order_amount": 25230,
       "diff": -1740,
       "diff_perc": -0.064516129
-    },
-    {
+  },
+  {
+      "id": "_22vl1ndrj",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -6343,8 +7048,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -1920,
       "diff_perc": -0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_u3k8ov08d",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -6352,8 +7058,9 @@ export const by_pos_and_sku = [
       "order_amount": 12480,
       "diff": -1920,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_if7pidr0u",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -6361,8 +7068,9 @@ export const by_pos_and_sku = [
       "order_amount": 28560,
       "diff": -2040,
       "diff_perc": -0.0666666667
-    },
-    {
+  },
+  {
+      "id": "_3w0vxthx1",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -6370,8 +7078,9 @@ export const by_pos_and_sku = [
       "order_amount": 4920,
       "diff": -2040,
       "diff_perc": -0.2931034483
-    },
-    {
+  },
+  {
+      "id": "_h21fxpffg",
       "customer_sort_by_customer_id_asc": "194|Aman 44|Aman|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "194|Aman 44|Aman|Grocery Self Service",
@@ -6379,8 +7088,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": -2040,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_pv5ov768c",
       "customer_sort_by_customer_id_asc": "325|Praznik Trgovina 1|Praznik Trgovina|Local Chain|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "325|Praznik Trgovina 1|Praznik Trgovina|Grocery Self Service",
@@ -6388,8 +7098,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": -2160,
       "diff_perc": -0.2307692308
-    },
-    {
+  },
+  {
+      "id": "_sxgcix0hp",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6397,8 +7108,9 @@ export const by_pos_and_sku = [
       "order_amount": 52560,
       "diff": -2160,
       "diff_perc": -0.0394736842
-    },
-    {
+  },
+  {
+      "id": "_iysrnwr2i",
       "customer_sort_by_customer_id_asc": "352|STR Vuk|STR Vuk|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "352|STR Vuk|STR Vuk|Grocery Self Service",
@@ -6406,8 +7118,9 @@ export const by_pos_and_sku = [
       "order_amount": 13200,
       "diff": -2200,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_il39l9s1d",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -6415,8 +7128,9 @@ export const by_pos_and_sku = [
       "order_amount": 19800,
       "diff": -2200,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_h2x5qsdsh",
       "customer_sort_by_customer_id_asc": "363|STR Spasa|STR Spasa|General Trade|Grocery Counter",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "363|STR Spasa|STR Spasa|Grocery Counter",
@@ -6424,8 +7138,9 @@ export const by_pos_and_sku = [
       "order_amount": 26400,
       "diff": -2200,
       "diff_perc": -0.0769230769
-    },
-    {
+  },
+  {
+      "id": "_do3w90z3t",
       "customer_sort_by_customer_id_asc": "373|STR Mis|STR Mis|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "373|STR Mis|STR Mis|Grocery Self Service",
@@ -6433,8 +7148,9 @@ export const by_pos_and_sku = [
       "order_amount": 22000,
       "diff": -2200,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_o91bhe8wt",
       "customer_sort_by_customer_id_asc": "431|Market Jaje|Market Jaje|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "431|Market Jaje|Market Jaje|Grocery Self Service",
@@ -6442,8 +7158,9 @@ export const by_pos_and_sku = [
       "order_amount": 17600,
       "diff": -2200,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_k6obgcww2",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6451,8 +7168,9 @@ export const by_pos_and_sku = [
       "order_amount": 33600,
       "diff": -2240,
       "diff_perc": -0.0625
-    },
-    {
+  },
+  {
+      "id": "_aqmw1krvx",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "15|Bel Desiderio 100g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6460,8 +7178,9 @@ export const by_pos_and_sku = [
       "order_amount": 5640,
       "diff": -2400,
       "diff_perc": -0.2985074627
-    },
-    {
+  },
+  {
+      "id": "_x1vowwa0q",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "13|Bel Desiderio 100g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -6469,8 +7188,9 @@ export const by_pos_and_sku = [
       "order_amount": 6120,
       "diff": -2400,
       "diff_perc": -0.2816901408
-    },
-    {
+  },
+  {
+      "id": "_a6mg39u9t",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -6478,8 +7198,9 @@ export const by_pos_and_sku = [
       "order_amount": 6720,
       "diff": -2400,
       "diff_perc": -0.2631578947
-    },
-    {
+  },
+  {
+      "id": "_n8jvm7oe6",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6487,8 +7208,9 @@ export const by_pos_and_sku = [
       "order_amount": 27030,
       "diff": -2550,
       "diff_perc": -0.0862068966
-    },
-    {
+  },
+  {
+      "id": "_49iz7disd",
       "customer_sort_by_customer_id_asc": "145|Maxi 145|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "145|Maxi 145|Maxi|Grocery Self Service",
@@ -6496,8 +7218,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": -2560,
       "diff_perc": -0.2352941176
-    },
-    {
+  },
+  {
+      "id": "_2e4ifas61",
       "customer_sort_by_customer_id_asc": "265|Trafikoni 30|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "265|Trafikoni 30|Trafikoni|Grocery Counter",
@@ -6505,8 +7228,9 @@ export const by_pos_and_sku = [
       "order_amount": 8320,
       "diff": -2560,
       "diff_perc": -0.2352941176
-    },
-    {
+  },
+  {
+      "id": "_bg0apu8q0",
       "customer_sort_by_customer_id_asc": "424|G&D|G&D|General Trade|Grocery Counter",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "424|G&D|G&D|Grocery Counter",
@@ -6514,8 +7238,9 @@ export const by_pos_and_sku = [
       "order_amount": 6400,
       "diff": -2560,
       "diff_perc": -0.2857142857
-    },
-    {
+  },
+  {
+      "id": "_709lmtye9",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6523,8 +7248,9 @@ export const by_pos_and_sku = [
       "order_amount": 25350,
       "diff": -2600,
       "diff_perc": -0.0930232558
-    },
-    {
+  },
+  {
+      "id": "_oqkmqkfnx",
       "customer_sort_by_customer_id_asc": "7|Maxi 7|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "7|Maxi 7|Maxi|Grocery Self Service",
@@ -6532,8 +7258,9 @@ export const by_pos_and_sku = [
       "order_amount": 5800,
       "diff": -2610,
       "diff_perc": -0.3103448276
-    },
-    {
+  },
+  {
+      "id": "_bfco8w78t",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -6541,8 +7268,9 @@ export const by_pos_and_sku = [
       "order_amount": 22400,
       "diff": -2800,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_3d0d9l7e1",
       "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "227|Gomex 27|Gomex|Grocery Self Service",
@@ -6550,8 +7278,9 @@ export const by_pos_and_sku = [
       "order_amount": 8640,
       "diff": -2880,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_is3jfa9mo",
       "customer_sort_by_customer_id_asc": "376|STR Jastuk|STR Jastuk|General Trade|Grocery Counter",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "376|STR Jastuk|STR Jastuk|Grocery Counter",
@@ -6559,8 +7288,9 @@ export const by_pos_and_sku = [
       "order_amount": 7200,
       "diff": -2880,
       "diff_perc": -0.2857142857
-    },
-    {
+  },
+  {
+      "id": "_regst4yow",
       "customer_sort_by_customer_id_asc": "158|Aman 8|Aman|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "158|Aman 8|Aman|Grocery Self Service",
@@ -6568,8 +7298,9 @@ export const by_pos_and_sku = [
       "order_amount": 29000,
       "diff": -2900,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_x106jd9ju",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -6577,8 +7308,9 @@ export const by_pos_and_sku = [
       "order_amount": 58000,
       "diff": -2900,
       "diff_perc": -0.0476190476
-    },
-    {
+  },
+  {
+      "id": "_eszkj94a1",
       "customer_sort_by_customer_id_asc": "240|Trafikoni 5|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "240|Trafikoni 5|Trafikoni|Grocery Counter",
@@ -6586,8 +7318,9 @@ export const by_pos_and_sku = [
       "order_amount": 26100,
       "diff": -2900,
       "diff_perc": -0.1
-    },
-    {
+  },
+  {
+      "id": "_l27wq8e1w",
       "customer_sort_by_customer_id_asc": "353|STR Kraj|STR Kraj|General Trade|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "353|STR Kraj|STR Kraj|Grocery Self Service",
@@ -6595,8 +7328,9 @@ export const by_pos_and_sku = [
       "order_amount": 29000,
       "diff": -2900,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_v0jc3kb84",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "10|Cereali Blu XL|Cerali|SOLE",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -6604,8 +7338,9 @@ export const by_pos_and_sku = [
       "order_amount": 10710,
       "diff": -2940,
       "diff_perc": -0.2153846154
-    },
-    {
+  },
+  {
+      "id": "_iex6yylqa",
       "customer_sort_by_customer_id_asc": "203|Gomex 3|Gomex|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "203|Gomex 3|Gomex|Grocery Self Service",
@@ -6613,8 +7348,9 @@ export const by_pos_and_sku = [
       "order_amount": 9690,
       "diff": -3060,
       "diff_perc": -0.24
-    },
-    {
+  },
+  {
+      "id": "_x8p36nqx8",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -6622,8 +7358,9 @@ export const by_pos_and_sku = [
       "order_amount": 18360,
       "diff": -3060,
       "diff_perc": -0.1428571429
-    },
-    {
+  },
+  {
+      "id": "_zlehksllm",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "3|Dolcezza 3|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6631,8 +7368,9 @@ export const by_pos_and_sku = [
       "order_amount": 18000,
       "diff": -3150,
       "diff_perc": -0.1489361702
-    },
-    {
+  },
+  {
+      "id": "_tg036orvg",
       "customer_sort_by_customer_id_asc": "141|Maxi 141|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "141|Maxi 141|Maxi|Grocery Self Service",
@@ -6640,8 +7378,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": -3200,
       "diff_perc": -0.2941176471
-    },
-    {
+  },
+  {
+      "id": "_if009gavj",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6649,8 +7388,9 @@ export const by_pos_and_sku = [
       "order_amount": 33600,
       "diff": -3360,
       "diff_perc": -0.0909090909
-    },
-    {
+  },
+  {
+      "id": "_44jweldho",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "19|Spalmare 100g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6658,8 +7398,9 @@ export const by_pos_and_sku = [
       "order_amount": 13050,
       "diff": -3480,
       "diff_perc": -0.2105263158
-    },
-    {
+  },
+  {
+      "id": "_n75u85rvx",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -6667,8 +7408,9 @@ export const by_pos_and_sku = [
       "order_amount": 61920,
       "diff": -3600,
       "diff_perc": -0.0549450549
-    },
-    {
+  },
+  {
+      "id": "_g69pvn02a",
       "customer_sort_by_customer_id_asc": "75|Maxi 75|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "75|Maxi 75|Maxi|Grocery Self Service",
@@ -6676,8 +7418,9 @@ export const by_pos_and_sku = [
       "order_amount": 7680,
       "diff": -3840,
       "diff_perc": -0.3333333333
-    },
-    {
+  },
+  {
+      "id": "_pxvorl79u",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6685,8 +7428,9 @@ export const by_pos_and_sku = [
       "order_amount": 42240,
       "diff": -3840,
       "diff_perc": -0.0833333333
-    },
-    {
+  },
+  {
+      "id": "_jyaiei831",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -6694,8 +7438,9 @@ export const by_pos_and_sku = [
       "order_amount": 21420,
       "diff": -4080,
       "diff_perc": -0.16
-    },
-    {
+  },
+  {
+      "id": "_vud68smvq",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -6703,8 +7448,9 @@ export const by_pos_and_sku = [
       "order_amount": 22320,
       "diff": -4320,
       "diff_perc": -0.1621621622
-    },
-    {
+  },
+  {
+      "id": "_syxsmar3b",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -6712,8 +7458,9 @@ export const by_pos_and_sku = [
       "order_amount": 35200,
       "diff": -4400,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_9jxd7qgm9",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6721,8 +7468,9 @@ export const by_pos_and_sku = [
       "order_amount": 94600,
       "diff": -4400,
       "diff_perc": -0.0444444444
-    },
-    {
+  },
+  {
+      "id": "_80fxrl8iu",
       "customer_sort_by_customer_id_asc": "212|Gomex 12|Gomex|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "212|Gomex 12|Gomex|Grocery Self Service",
@@ -6730,8 +7478,9 @@ export const by_pos_and_sku = [
       "order_amount": 35200,
       "diff": -4400,
       "diff_perc": -0.1111111111
-    },
-    {
+  },
+  {
+      "id": "_dwmqt35pa",
       "customer_sort_by_customer_id_asc": "256|Trafikoni 21|Trafikoni|Local Chain|Grocery Counter",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "256|Trafikoni 21|Trafikoni|Grocery Counter",
@@ -6739,8 +7488,9 @@ export const by_pos_and_sku = [
       "order_amount": 15400,
       "diff": -4400,
       "diff_perc": -0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_lok9x6cvt",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -6748,8 +7498,9 @@ export const by_pos_and_sku = [
       "order_amount": 25600,
       "diff": -4480,
       "diff_perc": -0.1489361702
-    },
-    {
+  },
+  {
+      "id": "_kgksrbwmp",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "1|Grazie 3|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -6757,8 +7508,9 @@ export const by_pos_and_sku = [
       "order_amount": 13650,
       "diff": -4550,
       "diff_perc": -0.25
-    },
-    {
+  },
+  {
+      "id": "_xzyihoasc",
       "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "444|Krivi Jasen|Krivi Jasen|Grocery Self Service",
@@ -6766,8 +7518,9 @@ export const by_pos_and_sku = [
       "order_amount": 21600,
       "diff": -5280,
       "diff_perc": -0.1964285714
-    },
-    {
+  },
+  {
+      "id": "_hsnaobpe3",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6775,8 +7528,9 @@ export const by_pos_and_sku = [
       "order_amount": 22950,
       "diff": -5610,
       "diff_perc": -0.1964285714
-    },
-    {
+  },
+  {
+      "id": "_7sbahi5ze",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6784,8 +7538,9 @@ export const by_pos_and_sku = [
       "order_amount": 37440,
       "diff": -5760,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_aecvlxst3",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -6793,8 +7548,9 @@ export const by_pos_and_sku = [
       "order_amount": 13260,
       "diff": -6120,
       "diff_perc": -0.3157894737
-    },
-    {
+  },
+  {
+      "id": "_h7uygxz9v",
       "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "98|Maxi 98|Maxi|Grocery Self Service",
@@ -6802,8 +7558,9 @@ export const by_pos_and_sku = [
       "order_amount": 33600,
       "diff": -6160,
       "diff_perc": -0.1549295775
-    },
-    {
+  },
+  {
+      "id": "_j4mtjiqk1",
       "customer_sort_by_customer_id_asc": "20|Maxi 20|Maxi|Key Account|Grocery Self Service",
       "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "20|Maxi 20|Maxi|Grocery Self Service",
@@ -6811,8 +7568,9 @@ export const by_pos_and_sku = [
       "order_amount": 9600,
       "diff": -6400,
       "diff_perc": -0.4
-    },
-    {
+  },
+  {
+      "id": "_7gp5bitdk",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -6820,8 +7578,9 @@ export const by_pos_and_sku = [
       "order_amount": 184800,
       "diff": -6600,
       "diff_perc": -0.0344827586
-    },
-    {
+  },
+  {
+      "id": "_qzanru6zl",
       "customer_sort_by_customer_id_asc": "93|Maxi 93|Maxi|Key Account|Grocery Self Service",
       "item_field": "18|Bel Desiderio 200g Mentolo|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "93|Maxi 93|Maxi|Grocery Self Service",
@@ -6829,8 +7588,9 @@ export const by_pos_and_sku = [
       "order_amount": 33120,
       "diff": -7920,
       "diff_perc": -0.1929824561
-    },
-    {
+  },
+  {
+      "id": "_stz139ndu",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6838,8 +7598,9 @@ export const by_pos_and_sku = [
       "order_amount": 28560,
       "diff": -8160,
       "diff_perc": -0.2222222222
-    },
-    {
+  },
+  {
+      "id": "_10aiqp38w",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6847,8 +7608,9 @@ export const by_pos_and_sku = [
       "order_amount": 90200,
       "diff": -8800,
       "diff_perc": -0.0888888889
-    },
-    {
+  },
+  {
+      "id": "_s4bqyg91g",
       "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "421|KSJ|KSJ|Grocery Self Service",
@@ -6856,8 +7618,9 @@ export const by_pos_and_sku = [
       "order_amount": 57200,
       "diff": -8800,
       "diff_perc": -0.1333333333
-    },
-    {
+  },
+  {
+      "id": "_t061i1iul",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6865,8 +7628,9 @@ export const by_pos_and_sku = [
       "order_amount": 33600,
       "diff": -9120,
       "diff_perc": -0.2134831461
-    },
-    {
+  },
+  {
+      "id": "_bv6dafru0",
       "customer_sort_by_customer_id_asc": "403|Gnjurac|Gnjurac|General Trade|Grocery Self Service",
       "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
       "customer_sort_by_pos_color_desc": "403|Gnjurac|Gnjurac|Grocery Self Service",
@@ -6874,8 +7638,9 @@ export const by_pos_and_sku = [
       "order_amount": 50960,
       "diff": -10080,
       "diff_perc": -0.1651376147
-    },
-    {
+  },
+  {
+      "id": "_a1zkau90k",
       "customer_sort_by_customer_id_asc": "230|Gomex 30|Gomex|Key Account|Grocery Self Service",
       "item_field": "4|Dolcezza 15|Dolcezza|ICI",
       "customer_sort_by_pos_color_desc": "230|Gomex 30|Gomex|Grocery Self Service",
@@ -6883,8 +7648,9 @@ export const by_pos_and_sku = [
       "order_amount": 44000,
       "diff": -11000,
       "diff_perc": -0.2
-    },
-    {
+  },
+  {
+      "id": "_0zmaa5362",
       "customer_sort_by_customer_id_asc": "97|Maxi 97|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "97|Maxi 97|Maxi|Grocery Self Service",
@@ -6892,8 +7658,9 @@ export const by_pos_and_sku = [
       "order_amount": 58000,
       "diff": -11600,
       "diff_perc": -0.1666666667
-    },
-    {
+  },
+  {
+      "id": "_ca8aiog50",
       "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
       "item_field": "20|Spalmare 200g|Spalmare|ICI",
       "customer_sort_by_pos_color_desc": "1|Maxi 1|Maxi|Mega Store",
@@ -6901,8 +7668,9 @@ export const by_pos_and_sku = [
       "order_amount": 32640,
       "diff": -13770,
       "diff_perc": -0.2967032967
-    },
-    {
+  },
+  {
+      "id": "_l037txjvs",
       "customer_sort_by_customer_id_asc": "11|Maxi 11|Maxi|Key Account|Grocery Self Service",
       "item_field": "2|Grazie 15|Grazie|ICI",
       "customer_sort_by_pos_color_desc": "11|Maxi 11|Maxi|Grocery Self Service",
@@ -6910,8 +7678,8 @@ export const by_pos_and_sku = [
       "order_amount": 116000,
       "diff": -29000,
       "diff_perc": -0.2
-    }
-  ]
+  }
+]
   
 
 export const by_sku = [
