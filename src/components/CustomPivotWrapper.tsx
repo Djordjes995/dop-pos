@@ -3,13 +3,7 @@ import React from 'react';
 import PivotTable from './pivot/PivotTable';
 
 const MyComponent = () => {
-  const data = [
-    { id: 1, name: 'John', age: 30 },
-    { id: 2, name: 'Jane', age: 25 },
-    { id: 3, name: 'Doe', age: 40 },
-  ];
-
-  const pivotData = [  {
+  const pivotData = [{
     "id": "_px5i2zecu",
     "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
     "item_field": "2|Grazie 15|Grazie|ICI",
@@ -18,8 +12,8 @@ const MyComponent = () => {
     "order_amount": 211700,
     "diff": 14500,
     "diff_perc": 0.0735294118
-},
-{
+  },
+  {
     "id": "_8o5h19la1",
     "customer_sort_by_customer_id_asc": "98|Maxi 98|Maxi|Key Account|Grocery Self Service",
     "item_field": "2|Grazie 15|Grazie|ICI",
@@ -28,8 +22,8 @@ const MyComponent = () => {
     "order_amount": 130500,
     "diff": 14500,
     "diff_perc": 0.125
-},
-{
+  },
+  {
     "id": "_2gdlasu34",
     "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
     "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
@@ -38,8 +32,8 @@ const MyComponent = () => {
     "order_amount": 64320,
     "diff": 13440,
     "diff_perc": 0.2641509434
-},
-{
+  },
+  {
     "id": "_1qrak6ys9",
     "customer_sort_by_customer_id_asc": "247|Trafikoni 12|Trafikoni|Local Chain|Grocery Counter",
     "item_field": "2|Grazie 15|Grazie|ICI",
@@ -48,8 +42,8 @@ const MyComponent = () => {
     "order_amount": 29000,
     "diff": 8700,
     "diff_perc": 0.4285714286
-},
-{
+  },
+  {
     "id": "_glwfga2pg",
     "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
     "item_field": "16|Bel Desiderio 200g Nocciola|Bel Desiderio|ICI",
@@ -58,8 +52,8 @@ const MyComponent = () => {
     "order_amount": 70400,
     "diff": 8320,
     "diff_perc": 0.1340206186
-},
-{
+  },
+  {
     "id": "_qk650lrz1",
     "customer_sort_by_customer_id_asc": "1|Maxi 1|Maxi|Key Account|Mega Store",
     "item_field": "14|Bel Desiderio 200g Latte|Bel Desiderio|ICI",
@@ -68,8 +62,8 @@ const MyComponent = () => {
     "order_amount": 71120,
     "diff": 7280,
     "diff_perc": 0.1140350877
-},
-{
+  },
+  {
     "id": "_0kcnwrr3q",
     "customer_sort_by_customer_id_asc": "113|Maxi 113|Maxi|Key Account|Grocery Self Service",
     "item_field": "4|Dolcezza 15|Dolcezza|ICI",
@@ -78,8 +72,8 @@ const MyComponent = () => {
     "order_amount": 28600,
     "diff": 6600,
     "diff_perc": 0.3
-},
-{
+  },
+  {
     "id": "_kj1mwyymy",
     "customer_sort_by_customer_id_asc": "227|Gomex 27|Gomex|Key Account|Grocery Self Service",
     "item_field": "4|Dolcezza 15|Dolcezza|ICI",
@@ -88,8 +82,8 @@ const MyComponent = () => {
     "order_amount": 35200,
     "diff": 6600,
     "diff_perc": 0.2307692308
-},
-{
+  },
+  {
     "id": "_yopsrfrzi",
     "customer_sort_by_customer_id_asc": "284|Banat Tade 14|Banat Tade|Local Chain|Grocery Self Service",
     "item_field": "4|Dolcezza 15|Dolcezza|ICI",
@@ -98,8 +92,8 @@ const MyComponent = () => {
     "order_amount": 30800,
     "diff": 6600,
     "diff_perc": 0.2727272727
-},
-{
+  },
+  {
     "id": "_ok8723ss6",
     "customer_sort_by_customer_id_asc": "444|Krivi Jasen|Krivi Jasen|General Trade|Grocery Self Service",
     "item_field": "4|Dolcezza 15|Dolcezza|ICI",
@@ -108,8 +102,8 @@ const MyComponent = () => {
     "order_amount": 79200,
     "diff": 6600,
     "diff_perc": 0.0909090909
-},
-{
+  },
+  {
     "id": "_2z3nevt15",
     "customer_sort_by_customer_id_asc": "421|KSJ|KSJ|General Trade|Grocery Self Service",
     "item_field": "12|Bel Desiderio 200g|Bel Desiderio|ICI",
@@ -118,13 +112,41 @@ const MyComponent = () => {
     "order_amount": 25920,
     "diff": 6240,
     "diff_perc": 0.3170731707
-},]
+  },]
+
+//   const columDefs = [
+//     {
+//     field: 'customer_sort_by_pos_color_desc',
+//     rowGroup: true
+//   },
+//     {
+//     field: 'item_field',
+//     rowGroup: false
+//   },
+//     {
+//     field: 'suggested_amount',
+//     rowGroup: false
+//   },
+//     {
+//     field: 'order_amount',
+//     rowGroup: false
+//   },
+//     {
+//     field: 'diff',
+//     rowGroup: false
+//   },
+// ]
+
+const rows = [{name: 'customer_sort_by_pos_color_desc'}, {name: 'item_field'}]
+const values = [{name: 'suggested_amount', caption: ''}, {name: 'order_amount', catption: ''}]
 
   return (
     <div>
       <h1>My Pivot Table</h1>
       <PivotTable
-        data={pivotData}
+        rows={rows}
+        values={values}
+        data={by_pos_and_sku}
       />
     </div>
   );

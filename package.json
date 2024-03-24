@@ -26,6 +26,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^13.2.0",
+    "react-resizable": "^3.0.5",
     "react-router-dom": "^6.11.2",
     "simplebar-react": "^3.2.4",
     "sort-by": "^1.2.0",
