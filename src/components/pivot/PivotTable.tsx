@@ -1,10 +1,23 @@
 import React, { useState } from 'react';
-import { Table, TableContainer, TableHead, TableBody, TableRow, TableCell, Paper } from '@mui/material';
+import { Table, TableContainer, TableHead, TableBody, TableRow, TableCell, Paper, SvgIcon } from '@mui/material';
+import { PlusIcon, MinusIcon } from '@heroicons/react/24/solid';
 
 const cellBorderStyle = {
   border: '1px solid #e0e0e0',
   padding: '8px',
 };
+
+const noTopBorderCellStyle = {
+  ...cellBorderStyle,
+  borderTop: 'none'
+}
+
+const pivotCellStyle = {
+  display: 'flex',
+  alignItems: 'center',
+  ...cellBorderStyle,
+  borderTop: 'none'
+}
 
 const PivotTable = ({ data, rows, values }) => {
   // Extracting unique rows and values names
@@ -67,14 +80,21 @@ const PivotTable = ({ data, rows, values }) => {
             <React.Fragment key={rowIndex}>
               <TableRow key={rowIndex} onClick={() => toggleExpand(row.pivotRowName)}>
                 {columnsToShow.map((column, colIndex) => (
-                  <TableCell key={`${rowIndex}-${colIndex}`} style={{ ...cellBorderStyle, borderTop: 'none' }}>{row[column.name]}</TableCell>
+                  <TableCell key={`${rowIndex}-${colIndex}`} style={colIndex === 0 ? pivotCellStyle : noTopBorderCellStyle}>
+                    {colIndex === 0 && (
+                      <SvgIcon fontSize="medium">
+                        {expandedRows.includes(row.pivotRowName) ? <MinusIcon /> : <PlusIcon />}
+                      </SvgIcon>)}
+                    {row[column.name]}
+                  </TableCell>
                 ))}
               </TableRow>
               {row.aggregatedElements?.length &&
                 expandedRows.includes(row.pivotRowName) && row.aggregatedElements.map(aggregatedRow => (
                   <TableRow>
                     {columnsToShow.map((column, colIndex) => (
-                      <TableCell style={{ ...cellBorderStyle, borderTop: 'none' }}>
+                      <TableCell key={`${aggregatedRow.id}-${colIndex}`}
+                        style={colIndex === 0 ? { ...noTopBorderCellStyle, paddingLeft: '30px' } : noTopBorderCellStyle}>
                         {aggregatedRow[column.name]}
                       </TableCell>
                     ))}
